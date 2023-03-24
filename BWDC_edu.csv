@@ -1,0 +1,629 @@
+,zip_code,CBSA Title,MSA_central_outlying,pct_hh_with_broadband_internet_subscriptions,pct_hh_with_broadband_internet_subscriptions_white_alone,pct_hh_with_broadband_internet_subscriptions_black_alone,pct_hh_with_broadband_internet_subscriptions_asian_alone,pct_hh_with_broadband_internet_subscriptions_hispanic,quartiles_pct_hh_with_broadband_internet_subscriptions,pct_bach_degree_or_higher_white_alone,pct_bach_degree_or_higher_black_alone,pct_bach_degree_or_higher_asian_alone,pct_bach_degree_or_higher_hispanic,quartiles_pct_bach_degree_or_higher_white_alone,quartiles_pct_bach_degree_or_higher_black_alone,quartiles_pct_bach_degree_or_higher_asian_alone,quartiles_pct_bach_degree_or_higher_hispanic
+0,37010,"Clarksville, TN-KY",Central,90.9,91.8,88.1,100.0,80.5,51-75% of geographies,38.6,28.3,100.0,50.5,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+1,37012,,Outlying,84.6,83.9,94.1,100.0,88.5,26-50% of geographies,11.7,0.0,100.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+2,37013,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,93.4,94.1,92.6,94.7,91.7,51-75% of geographies,29.7,32.6,24.5,10.1,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+3,37014,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,97.4,97.3,100.0,,100.0,Top 25% of geographies,29.5,54.5,,100.0,51-75% of geographies,Top 25% of geographies,,Top 25% of geographies
+4,37015,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,86.6,87.0,89.5,100.0,67.6,26-50% of geographies,18.4,15.8,100.0,12.9,26-50% of geographies,51-75% of geographies,Top 25% of geographies,26-50% of geographies
+5,37016,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,83.4,84.4,,,33.3,26-50% of geographies,14.8,,,100.0,26-50% of geographies,,,Top 25% of geographies
+6,37018,"Tullahoma-Manchester, TN",Central,87.1,89.3,100.0,100.0,100.0,26-50% of geographies,11.6,100.0,58.2,,Bottom 25% of geographies,Top 25% of geographies,51-75% of geographies,
+7,37019,"Lewisburg, TN",Central,91.0,93.3,35.5,,100.0,51-75% of geographies,8.9,64.5,,0.0,Bottom 25% of geographies,Top 25% of geographies,,Bottom 25% of geographies
+8,37020,"Shelbyville, TN",Central,91.1,91.2,100.0,100.0,100.0,51-75% of geographies,26.0,0.0,35.1,16.9,51-75% of geographies,Bottom 25% of geographies,26-50% of geographies,51-75% of geographies
+9,37022,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,85.4,84.6,85.1,,100.0,26-50% of geographies,17.3,7.9,,34.9,26-50% of geographies,26-50% of geographies,,Top 25% of geographies
+10,37023,"Clarksville, TN-KY",Outlying,86.6,86.2,100.0,,100.0,26-50% of geographies,13.9,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+11,37025,,Outlying,81.4,81.6,0.0,,100.0,Bottom 25% of geographies,14.5,0.0,,100.0,26-50% of geographies,Bottom 25% of geographies,,Top 25% of geographies
+12,37026,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,91.3,92.5,,,73.1,51-75% of geographies,14.5,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+13,37027,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,98.2,98.0,98.9,100.0,98.1,Top 25% of geographies,73.9,79.8,82.6,68.5,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+14,37028,"Clarksville, TN-KY",Outlying,100.0,100.0,,,,Top 25% of geographies,40.8,0.0,,0.0,Top 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+15,37029,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,92.3,91.8,100.0,100.0,100.0,51-75% of geographies,29.6,0.0,100.0,44.8,51-75% of geographies,Bottom 25% of geographies,Top 25% of geographies,Top 25% of geographies
+16,37030,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,84.5,85.8,41.8,100.0,64.1,26-50% of geographies,19.6,14.6,39.6,0.0,26-50% of geographies,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+17,37031,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,81.5,81.6,57.7,,100.0,26-50% of geographies,20.2,26.8,,0.0,26-50% of geographies,51-75% of geographies,,Bottom 25% of geographies
+18,37032,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,83.0,84.2,41.8,0.0,8.9,26-50% of geographies,23.0,36.8,,0.0,51-75% of geographies,Top 25% of geographies,,Bottom 25% of geographies
+19,37033,,Outlying,72.6,73.4,48.8,,58.3,Bottom 25% of geographies,8.8,0.0,,12.9,Bottom 25% of geographies,Bottom 25% of geographies,,26-50% of geographies
+20,37034,"Lewisburg, TN",Central,86.9,86.2,72.1,100.0,98.7,26-50% of geographies,20.1,10.5,13.6,3.4,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+21,37035,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,80.2,82.0,100.0,100.0,13.0,Bottom 25% of geographies,23.2,,0.0,0.0,51-75% of geographies,,Bottom 25% of geographies,Bottom 25% of geographies
+22,37036,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,85.3,84.8,100.0,,100.0,26-50% of geographies,10.1,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+23,37037,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,90.5,91.7,83.7,,100.0,51-75% of geographies,29.0,16.0,,10.8,51-75% of geographies,51-75% of geographies,,26-50% of geographies
+24,37040,"Clarksville, TN-KY",Central,93.3,95.4,87.2,99.2,97.9,51-75% of geographies,29.6,25.5,31.7,21.2,51-75% of geographies,51-75% of geographies,26-50% of geographies,51-75% of geographies
+25,37042,"Clarksville, TN-KY",Central,93.0,94.1,93.0,91.2,94.0,51-75% of geographies,24.9,23.6,26.5,13.1,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+26,37043,"Clarksville, TN-KY",Central,94.7,94.7,91.2,100.0,97.8,Top 25% of geographies,40.7,44.2,58.8,40.1,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+27,37046,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,94.8,94.3,,100.0,100.0,Top 25% of geographies,52.3,,100.0,48.4,Top 25% of geographies,,Top 25% of geographies,Top 25% of geographies
+28,37047,"Lewisburg, TN",Central,84.7,81.4,100.0,,100.0,26-50% of geographies,12.1,19.7,,0.0,Bottom 25% of geographies,51-75% of geographies,,Bottom 25% of geographies
+29,37048,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,92.9,93.4,89.7,100.0,100.0,51-75% of geographies,23.0,0.0,,0.0,51-75% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+30,37049,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,85.1,84.1,100.0,75.0,90.4,26-50% of geographies,14.6,2.4,0.0,39.1,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies
+31,37050,"Clarksville, TN-KY",Outlying,87.3,85.4,91.5,,100.0,26-50% of geographies,7.7,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+32,37051,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,80.6,80.0,,,100.0,Bottom 25% of geographies,26.9,,,56.1,51-75% of geographies,,,Top 25% of geographies
+33,37052,"Clarksville, TN-KY",Central,87.6,87.6,,,0.0,26-50% of geographies,27.1,,,100.0,51-75% of geographies,,,Top 25% of geographies
+34,37055,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,87.3,87.0,83.0,99.6,89.7,26-50% of geographies,18.1,24.6,0.0,16.4,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies,51-75% of geographies
+35,37057,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,68.8,76.7,0.0,,,Bottom 25% of geographies,0.0,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+36,37058,"Clarksville, TN-KY",Outlying,84.1,82.7,55.6,100.0,100.0,26-50% of geographies,19.3,0.0,23.2,57.8,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies,Top 25% of geographies
+37,37059,,Outlying,83.6,85.1,9.5,,0.0,26-50% of geographies,16.3,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+38,37060,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,91.1,90.8,96.0,100.0,52.7,51-75% of geographies,28.1,3.3,,36.0,51-75% of geographies,26-50% of geographies,,Top 25% of geographies
+39,37061,,Outlying,84.7,84.8,86.0,100.0,100.0,26-50% of geographies,15.1,4.3,,0.0,26-50% of geographies,26-50% of geographies,,Bottom 25% of geographies
+40,37062,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,88.2,89.8,67.1,14.5,82.4,26-50% of geographies,33.3,30.1,50.0,38.5,51-75% of geographies,51-75% of geographies,51-75% of geographies,Top 25% of geographies
+41,37064,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,95.3,95.4,90.2,100.0,94.9,Top 25% of geographies,59.7,38.8,78.0,24.4,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,51-75% of geographies
+42,37066,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,91.3,91.9,87.2,97.7,92.9,51-75% of geographies,31.5,20.3,42.8,12.7,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+43,37067,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,95.4,95.2,100.0,93.9,100.0,Top 25% of geographies,63.1,53.9,86.4,59.4,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+44,37069,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,97.5,97.6,100.0,100.0,87.4,Top 25% of geographies,73.5,47.3,96.3,50.3,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+45,37072,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,92.7,91.7,96.9,98.8,97.5,51-75% of geographies,29.4,33.0,37.8,11.5,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+46,37073,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,94.0,93.9,100.0,100.0,97.5,Top 25% of geographies,22.6,22.1,72.3,41.4,51-75% of geographies,51-75% of geographies,51-75% of geographies,Top 25% of geographies
+47,37074,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,83.6,83.2,72.0,100.0,71.6,26-50% of geographies,8.1,7.1,45.2,0.0,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+48,37075,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,94.9,95.2,92.8,90.1,95.4,Top 25% of geographies,37.9,47.4,48.6,25.6,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+49,37076,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,93.0,93.6,94.0,100.0,90.0,51-75% of geographies,39.1,30.0,40.0,17.9,Top 25% of geographies,51-75% of geographies,26-50% of geographies,51-75% of geographies
+50,37078,,Outlying,74.8,74.8,,,,Bottom 25% of geographies,11.2,,,,Bottom 25% of geographies,,,
+51,37079,"Clarksville, TN-KY",Outlying,86.0,85.8,,,0.0,26-50% of geographies,21.1,,,,26-50% of geographies,,,
+52,37080,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,90.2,90.0,96.2,82.6,100.0,51-75% of geographies,21.6,21.1,65.2,9.9,26-50% of geographies,51-75% of geographies,51-75% of geographies,26-50% of geographies
+53,37082,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,91.0,91.1,100.0,,89.8,51-75% of geographies,26.9,46.4,,56.4,51-75% of geographies,Top 25% of geographies,,Top 25% of geographies
+54,37083,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,84.0,85.0,0.0,0.0,81.8,26-50% of geographies,9.8,0.0,0.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+55,37085,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,94.8,96.9,71.2,100.0,100.0,Top 25% of geographies,43.1,0.0,0.0,17.6,Top 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,51-75% of geographies
+56,37086,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,90.5,89.2,89.1,100.0,87.7,51-75% of geographies,22.2,26.9,10.7,8.0,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies,26-50% of geographies
+57,37087,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,88.2,88.4,85.5,84.8,85.5,26-50% of geographies,30.6,25.6,55.6,26.6,51-75% of geographies,51-75% of geographies,51-75% of geographies,51-75% of geographies
+58,37090,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,90.1,90.0,86.0,100.0,98.8,51-75% of geographies,28.2,45.2,64.5,21.7,51-75% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+59,37091,"Lewisburg, TN",Central,86.2,85.5,92.4,100.0,97.8,26-50% of geographies,19.1,3.9,67.9,3.9,26-50% of geographies,26-50% of geographies,51-75% of geographies,26-50% of geographies
+60,37095,,Outlying,77.9,78.7,72.4,100.0,80.3,Bottom 25% of geographies,24.2,0.0,,0.0,51-75% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+61,37096,,Outlying,71.6,69.1,33.3,100.0,0.0,Bottom 25% of geographies,10.2,15.5,11.3,0.0,Bottom 25% of geographies,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+62,37097,,Outlying,68.8,70.6,,,0.0,Bottom 25% of geographies,9.0,,,,Bottom 25% of geographies,,,
+63,37098,,Outlying,88.4,88.2,55.6,,87.6,26-50% of geographies,7.4,0.0,,13.6,Bottom 25% of geographies,Bottom 25% of geographies,,51-75% of geographies
+64,37101,,Outlying,83.2,82.7,100.0,,33.1,26-50% of geographies,15.3,33.3,,45.2,26-50% of geographies,51-75% of geographies,,Top 25% of geographies
+65,37110,"McMinnville, TN",Central,81.8,82.5,67.3,69.6,78.8,26-50% of geographies,14.2,9.9,54.1,9.6,Bottom 25% of geographies,26-50% of geographies,51-75% of geographies,26-50% of geographies
+66,37115,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,85.9,87.0,83.9,92.5,85.5,26-50% of geographies,25.5,24.1,23.8,8.7,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+67,37118,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,92.3,92.1,,100.0,,51-75% of geographies,22.2,,100.0,,26-50% of geographies,,Top 25% of geographies,
+68,37122,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,94.4,94.9,85.2,100.0,94.9,Top 25% of geographies,41.5,49.3,82.0,24.4,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,51-75% of geographies
+69,37127,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,97.2,97.0,96.6,100.0,100.0,Top 25% of geographies,35.5,48.7,53.9,38.3,51-75% of geographies,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+70,37128,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,96.0,97.1,91.8,100.0,93.8,Top 25% of geographies,39.9,44.3,39.7,33.5,Top 25% of geographies,Top 25% of geographies,26-50% of geographies,Top 25% of geographies
+71,37129,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,94.2,95.2,86.1,96.9,95.7,Top 25% of geographies,36.9,38.6,60.4,15.1,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+72,37130,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,87.3,89.0,80.4,94.8,92.1,26-50% of geographies,37.3,34.0,53.3,11.6,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,26-50% of geographies
+73,37132,,Outlying,,,,,,,0.0,100.0,,,Bottom 25% of geographies,Top 25% of geographies,,
+74,37134,,Outlying,88.5,87.6,100.0,0.0,100.0,51-75% of geographies,10.5,0.0,0.0,69.2,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies
+75,37135,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,99.0,99.1,100.0,100.0,100.0,Top 25% of geographies,70.5,59.3,40.8,47.3,Top 25% of geographies,Top 25% of geographies,26-50% of geographies,Top 25% of geographies
+76,37137,,Outlying,70.0,66.1,95.5,100.0,100.0,Bottom 25% of geographies,9.8,0.0,100.0,100.0,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,Top 25% of geographies
+77,37138,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,92.1,92.2,91.9,100.0,90.2,51-75% of geographies,37.6,32.2,64.8,25.8,Top 25% of geographies,51-75% of geographies,51-75% of geographies,51-75% of geographies
+78,37140,,Outlying,86.4,86.4,,,,26-50% of geographies,13.5,3.1,,0.0,Bottom 25% of geographies,26-50% of geographies,,Bottom 25% of geographies
+79,37141,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,76.7,75.2,100.0,,100.0,Bottom 25% of geographies,15.1,9.7,,0.0,26-50% of geographies,26-50% of geographies,,Bottom 25% of geographies
+80,37142,"Clarksville, TN-KY",Central,72.6,72.1,,,100.0,Bottom 25% of geographies,24.7,0.0,0.0,0.0,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+81,37143,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,86.8,86.4,100.0,,100.0,26-50% of geographies,25.4,30.8,,40.0,51-75% of geographies,51-75% of geographies,,Top 25% of geographies
+82,37144,,Outlying,79.7,78.9,91.5,100.0,100.0,Bottom 25% of geographies,15.4,0.0,66.7,,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies,
+83,37145,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,91.1,90.5,,,91.9,51-75% of geographies,12.8,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+84,37146,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,90.9,90.0,97.3,100.0,100.0,51-75% of geographies,29.4,31.2,28.7,85.3,51-75% of geographies,51-75% of geographies,26-50% of geographies,Top 25% of geographies
+85,37148,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,90.1,90.1,79.5,83.1,100.0,51-75% of geographies,13.9,4.5,29.0,11.1,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+86,37149,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,84.9,84.4,100.0,,100.0,26-50% of geographies,18.0,30.0,,100.0,26-50% of geographies,51-75% of geographies,,Top 25% of geographies
+87,37150,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,75.8,77.3,100.0,,0.0,Bottom 25% of geographies,12.3,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+88,37151,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,72.4,76.0,0.0,,,Bottom 25% of geographies,6.4,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+89,37153,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,88.8,88.6,100.0,100.0,100.0,51-75% of geographies,29.3,46.2,100.0,0.0,51-75% of geographies,Top 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+90,37160,"Shelbyville, TN",Central,85.6,87.8,74.3,,82.0,26-50% of geographies,19.2,4.5,,4.2,26-50% of geographies,26-50% of geographies,,26-50% of geographies
+91,37165,,Outlying,83.3,83.1,,,,26-50% of geographies,8.1,,,,Bottom 25% of geographies,,,
+92,37166,,Outlying,78.2,78.3,67.6,100.0,70.2,Bottom 25% of geographies,18.4,30.9,0.0,8.7,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies,26-50% of geographies
+93,37167,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,92.5,93.2,89.9,86.4,86.1,51-75% of geographies,25.0,34.4,11.3,14.9,51-75% of geographies,Top 25% of geographies,Bottom 25% of geographies,51-75% of geographies
+94,37171,"Clarksville, TN-KY",Central,73.6,73.6,,,,Bottom 25% of geographies,9.1,,,,Bottom 25% of geographies,,,
+95,37172,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,84.7,86.2,82.6,96.6,83.2,26-50% of geographies,21.0,9.6,13.6,7.8,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+96,37174,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,97.0,97.7,94.7,100.0,82.4,Top 25% of geographies,46.2,39.8,54.8,30.7,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+97,37175,,Outlying,65.1,66.4,,,,Bottom 25% of geographies,7.2,,,,Bottom 25% of geographies,,,
+98,37178,,Outlying,80.6,80.6,,,100.0,Bottom 25% of geographies,16.6,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+99,37179,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,95.1,95.2,44.6,100.0,100.0,Top 25% of geographies,54.7,0.0,100.0,80.7,Top 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,Top 25% of geographies
+100,37180,"Shelbyville, TN",Central,68.4,67.6,100.0,,,Bottom 25% of geographies,15.1,0.0,,,26-50% of geographies,Bottom 25% of geographies,,
+101,37181,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,85.5,84.9,100.0,,68.3,26-50% of geographies,14.1,0.0,,26.9,Bottom 25% of geographies,Bottom 25% of geographies,,51-75% of geographies
+102,37183,"Shelbyville, TN",Central,88.1,87.2,100.0,100.0,100.0,26-50% of geographies,26.6,0.0,0.0,7.1,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+103,37184,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,83.9,83.1,81.1,100.0,100.0,26-50% of geographies,18.5,34.6,25.6,3.3,26-50% of geographies,Top 25% of geographies,26-50% of geographies,26-50% of geographies
+104,37185,,Outlying,86.0,85.6,92.1,100.0,82.8,26-50% of geographies,17.6,4.1,81.4,0.0,26-50% of geographies,26-50% of geographies,Top 25% of geographies,Bottom 25% of geographies
+105,37186,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,82.7,83.0,71.1,100.0,7.6,26-50% of geographies,7.4,25.5,100.0,9.0,Bottom 25% of geographies,51-75% of geographies,Top 25% of geographies,26-50% of geographies
+106,37187,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,91.4,91.1,100.0,,100.0,51-75% of geographies,17.3,0.0,,8.4,26-50% of geographies,Bottom 25% of geographies,,26-50% of geographies
+107,37188,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,95.5,95.2,100.0,100.0,100.0,Top 25% of geographies,24.0,10.4,60.2,20.0,51-75% of geographies,26-50% of geographies,51-75% of geographies,51-75% of geographies
+108,37189,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,93.7,96.2,90.9,,100.0,Top 25% of geographies,45.0,34.3,0.0,48.1,Top 25% of geographies,Top 25% of geographies,Bottom 25% of geographies,Top 25% of geographies
+109,37190,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,78.3,78.4,53.8,,63.3,Bottom 25% of geographies,13.2,0.0,,27.8,Bottom 25% of geographies,Bottom 25% of geographies,,51-75% of geographies
+110,37191,"Clarksville, TN-KY",Central,88.8,87.4,100.0,100.0,99.4,51-75% of geographies,18.9,29.9,,42.5,26-50% of geographies,51-75% of geographies,,Top 25% of geographies
+111,37201,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,63.6,56.6,,100.0,100.0,Bottom 25% of geographies,81.0,0.0,100.0,0.0,Top 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+112,37203,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,92.4,97.1,77.1,99.1,94.6,51-75% of geographies,69.9,23.9,77.7,55.2,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+113,37204,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,95.6,98.4,76.0,94.6,99.4,Top 25% of geographies,81.8,43.6,93.0,41.2,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+114,37205,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,94.2,94.0,96.8,100.0,96.0,Top 25% of geographies,76.2,34.4,97.8,45.9,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+115,37206,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,91.1,96.0,80.2,100.0,93.1,51-75% of geographies,63.1,19.7,85.9,39.6,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+116,37207,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,82.8,80.7,83.5,58.9,83.6,26-50% of geographies,42.0,19.7,44.6,12.3,Top 25% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+117,37208,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,85.8,94.2,80.9,100.0,78.0,26-50% of geographies,72.7,17.7,91.7,46.3,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+118,37209,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,89.8,94.1,78.8,91.2,80.4,51-75% of geographies,59.8,31.9,39.3,24.8,Top 25% of geographies,51-75% of geographies,26-50% of geographies,51-75% of geographies
+119,37210,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,82.3,89.8,68.2,92.3,87.2,26-50% of geographies,41.9,12.0,28.4,18.3,Top 25% of geographies,26-50% of geographies,26-50% of geographies,51-75% of geographies
+120,37211,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,92.3,91.5,91.8,99.6,87.7,51-75% of geographies,42.2,37.8,41.1,12.5,Top 25% of geographies,Top 25% of geographies,26-50% of geographies,26-50% of geographies
+121,37212,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,92.8,96.6,49.5,99.4,94.8,51-75% of geographies,72.5,27.1,98.2,72.6,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+122,37213,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,100.0,100.0,,100.0,,Top 25% of geographies,100.0,,100.0,,Top 25% of geographies,,Top 25% of geographies,
+123,37214,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,92.7,93.7,91.6,99.1,88.8,51-75% of geographies,40.8,43.2,57.6,36.3,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+124,37215,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,93.6,93.7,93.1,87.8,100.0,Top 25% of geographies,80.3,50.3,76.5,84.2,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+125,37216,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,90.8,95.3,77.0,100.0,62.9,51-75% of geographies,60.8,20.0,60.9,42.0,Top 25% of geographies,51-75% of geographies,51-75% of geographies,Top 25% of geographies
+126,37217,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,94.6,95.2,94.1,99.7,94.8,Top 25% of geographies,30.5,31.7,58.9,10.0,51-75% of geographies,51-75% of geographies,51-75% of geographies,26-50% of geographies
+127,37218,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,84.3,81.5,84.9,95.2,100.0,26-50% of geographies,18.6,24.5,50.7,20.2,26-50% of geographies,51-75% of geographies,51-75% of geographies,51-75% of geographies
+128,37219,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,100.0,100.0,,100.0,100.0,Top 25% of geographies,86.0,,100.0,100.0,Top 25% of geographies,,Top 25% of geographies,Top 25% of geographies
+129,37220,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,98.7,98.6,100.0,100.0,100.0,Top 25% of geographies,78.3,33.9,100.0,70.3,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+130,37221,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,96.6,97.0,93.9,98.8,88.9,Top 25% of geographies,58.0,56.5,74.1,31.4,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+131,37228,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,76.3,72.4,72.3,100.0,,Bottom 25% of geographies,49.7,39.4,100.0,,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,
+132,37240,,Outlying,,,,,,,,,,,,,,
+133,37243,,Outlying,,,,,,,,,,,,,,
+134,37246,,Outlying,,,,,,,,,,,,,,
+135,37301,,Outlying,78.1,75.6,,100.0,100.0,Bottom 25% of geographies,15.7,0.0,0.0,0.0,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+136,37302,"Chattanooga, TN-GA",Central,93.8,93.1,93.7,100.0,100.0,Top 25% of geographies,34.0,35.0,49.6,32.3,51-75% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+137,37303,"Athens, TN",Central,88.4,87.9,93.5,100.0,92.4,26-50% of geographies,22.6,17.1,31.8,20.3,51-75% of geographies,51-75% of geographies,26-50% of geographies,51-75% of geographies
+138,37305,,Outlying,70.7,70.9,,,,Bottom 25% of geographies,5.8,,,,Bottom 25% of geographies,,,
+139,37306,"Tullahoma-Manchester, TN",Outlying,73.3,76.1,23.3,100.0,100.0,Bottom 25% of geographies,20.0,0.0,0.0,36.2,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies
+140,37307,"Cleveland, TN",Outlying,86.9,85.6,,,100.0,26-50% of geographies,18.5,0.0,0.0,0.0,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+141,37308,"Chattanooga, TN-GA",Central,80.0,81.0,100.0,,100.0,Bottom 25% of geographies,12.6,100.0,,100.0,Bottom 25% of geographies,Top 25% of geographies,,Top 25% of geographies
+142,37309,"Athens, TN",Central,89.2,89.1,,,,51-75% of geographies,11.4,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+143,37310,"Cleveland, TN",Central,86.9,86.8,85.5,,91.3,26-50% of geographies,11.0,13.4,,0.0,Bottom 25% of geographies,26-50% of geographies,,Bottom 25% of geographies
+144,37311,"Cleveland, TN",Central,85.1,86.4,77.2,58.9,83.4,26-50% of geographies,18.1,14.1,55.6,6.8,26-50% of geographies,26-50% of geographies,51-75% of geographies,26-50% of geographies
+145,37312,"Cleveland, TN",Central,92.7,92.0,91.0,100.0,97.6,51-75% of geographies,33.2,26.8,37.2,20.6,51-75% of geographies,51-75% of geographies,26-50% of geographies,51-75% of geographies
+146,37313,,Outlying,73.4,74.9,,,,Bottom 25% of geographies,17.0,,,,26-50% of geographies,,,
+147,37315,"Chattanooga, TN-GA",Central,,,,,,,0.0,,,,Bottom 25% of geographies,,,
+148,37317,"Cleveland, TN",Outlying,84.8,86.4,100.0,100.0,28.5,26-50% of geographies,22.0,0.0,100.0,0.0,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+149,37318,"Tullahoma-Manchester, TN",Outlying,78.6,78.8,68.8,100.0,36.8,Bottom 25% of geographies,10.7,2.4,100.0,0.0,Bottom 25% of geographies,26-50% of geographies,Top 25% of geographies,Bottom 25% of geographies
+150,37321,"Dayton, TN",Central,92.3,92.4,100.0,100.0,81.6,51-75% of geographies,17.8,8.8,7.5,9.4,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+151,37322,,Outlying,82.9,82.6,100.0,,49.7,26-50% of geographies,8.8,62.3,,0.0,Bottom 25% of geographies,Top 25% of geographies,,Bottom 25% of geographies
+152,37323,"Cleveland, TN",Central,90.5,90.4,92.4,100.0,94.1,51-75% of geographies,17.3,52.1,58.3,3.2,26-50% of geographies,Top 25% of geographies,51-75% of geographies,26-50% of geographies
+153,37324,"Tullahoma-Manchester, TN",Outlying,77.9,78.9,70.0,19.6,91.1,Bottom 25% of geographies,9.3,19.2,52.4,7.9,Bottom 25% of geographies,51-75% of geographies,51-75% of geographies,26-50% of geographies
+154,37325,"Cleveland, TN",Outlying,65.2,65.5,,100.0,100.0,Bottom 25% of geographies,14.7,,0.0,0.0,26-50% of geographies,,Bottom 25% of geographies,Bottom 25% of geographies
+155,37326,,Outlying,82.3,81.9,,,,26-50% of geographies,6.5,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+156,37327,"Chattanooga, TN-GA",Outlying,78.0,77.9,100.0,,62.4,Bottom 25% of geographies,14.6,0.0,,1.5,26-50% of geographies,Bottom 25% of geographies,,26-50% of geographies
+157,37328,,Outlying,80.2,80.9,,,,Bottom 25% of geographies,21.8,,,,26-50% of geographies,,,
+158,37329,"Athens, TN",Central,82.2,81.4,100.0,100.0,73.3,26-50% of geographies,10.3,0.0,100.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+159,37330,"Tullahoma-Manchester, TN",Outlying,71.8,71.5,64.9,100.0,100.0,Bottom 25% of geographies,18.4,2.8,0.0,100.0,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies
+160,37331,"Athens, TN",Central,90.3,89.8,91.8,,100.0,51-75% of geographies,15.2,9.9,,0.0,26-50% of geographies,26-50% of geographies,,Bottom 25% of geographies
+161,37332,"Dayton, TN",Central,88.0,87.2,100.0,,,26-50% of geographies,22.0,0.0,,,26-50% of geographies,Bottom 25% of geographies,,
+162,37333,"Cleveland, TN",Outlying,48.9,48.9,,,,Bottom 25% of geographies,7.1,,,,Bottom 25% of geographies,,,
+163,37334,,Outlying,78.1,79.3,61.3,79.9,88.2,Bottom 25% of geographies,21.0,9.3,39.5,0.7,26-50% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+164,37335,,Outlying,70.6,70.3,,100.0,100.0,Bottom 25% of geographies,10.4,,100.0,0.0,Bottom 25% of geographies,,Top 25% of geographies,Bottom 25% of geographies
+165,37336,"Cleveland, TN",Central,82.0,82.2,82.3,100.0,100.0,26-50% of geographies,17.0,6.9,0.0,0.0,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+166,37337,"Dayton, TN",Central,71.0,70.8,,,0.0,Bottom 25% of geographies,12.2,,,100.0,Bottom 25% of geographies,,,Top 25% of geographies
+167,37338,,Outlying,89.6,88.8,90.1,,90.7,51-75% of geographies,10.5,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+168,37339,,Outlying,73.1,73.1,100.0,,100.0,Bottom 25% of geographies,4.9,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+169,37340,"Chattanooga, TN-GA",Outlying,73.7,72.8,,100.0,100.0,Bottom 25% of geographies,8.8,,0.0,,Bottom 25% of geographies,,Bottom 25% of geographies,
+170,37341,"Chattanooga, TN-GA",Central,93.7,94.9,79.7,100.0,100.0,Top 25% of geographies,26.9,25.8,100.0,27.6,51-75% of geographies,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+171,37342,"Tullahoma-Manchester, TN",Central,77.5,80.8,,100.0,34.0,Bottom 25% of geographies,15.8,0.0,0.0,11.4,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+172,37343,"Chattanooga, TN-GA",Central,93.2,92.8,94.6,100.0,96.8,51-75% of geographies,36.7,36.9,51.5,22.6,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+173,37345,"Tullahoma-Manchester, TN",Outlying,75.2,73.8,69.1,100.0,100.0,Bottom 25% of geographies,16.9,0.0,0.0,0.0,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+174,37347,"Chattanooga, TN-GA",Outlying,85.4,83.7,100.0,100.0,100.0,26-50% of geographies,13.9,0.0,0.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+175,37348,,Outlying,69.5,69.5,,,,Bottom 25% of geographies,18.1,,,,26-50% of geographies,,,
+176,37350,"Chattanooga, TN-GA",Central,97.3,97.2,100.0,100.0,,Top 25% of geographies,84.8,0.0,100.0,,Top 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,
+177,37351,"Chattanooga, TN-GA",Central,87.2,82.0,100.0,,,26-50% of geographies,63.7,0.0,,,Top 25% of geographies,Bottom 25% of geographies,,
+178,37352,"Tullahoma-Manchester, TN",Outlying,69.9,68.6,60.0,100.0,100.0,Bottom 25% of geographies,18.6,0.0,100.0,0.0,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+179,37353,"Cleveland, TN",Central,82.7,84.1,100.0,,48.6,26-50% of geographies,32.7,0.0,,50.0,51-75% of geographies,Bottom 25% of geographies,,Top 25% of geographies
+180,37354,,Outlying,88.8,88.1,100.0,,100.0,51-75% of geographies,13.0,3.8,,0.0,Bottom 25% of geographies,26-50% of geographies,,Bottom 25% of geographies
+181,37355,"Tullahoma-Manchester, TN",Central,79.1,78.9,97.9,100.0,74.2,Bottom 25% of geographies,23.4,31.4,8.8,10.5,51-75% of geographies,51-75% of geographies,Bottom 25% of geographies,26-50% of geographies
+182,37356,,Outlying,86.7,86.0,,100.0,82.1,26-50% of geographies,33.5,0.0,0.0,52.8,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies
+183,37357,"McMinnville, TN",Central,73.7,79.2,51.9,100.0,81.1,Bottom 25% of geographies,17.9,22.8,100.0,1.7,26-50% of geographies,51-75% of geographies,Top 25% of geographies,26-50% of geographies
+184,37359,,Outlying,68.9,68.3,100.0,,,Bottom 25% of geographies,20.4,0.0,,,26-50% of geographies,Bottom 25% of geographies,,
+185,37360,"Tullahoma-Manchester, TN",Central,86.9,86.8,14.3,100.0,100.0,26-50% of geographies,30.7,0.0,0.0,100.0,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies
+186,37361,"Cleveland, TN",Outlying,81.8,80.3,,100.0,,26-50% of geographies,10.3,,100.0,,Bottom 25% of geographies,,Top 25% of geographies,
+187,37362,"Cleveland, TN",Outlying,80.1,82.6,,,100.0,Bottom 25% of geographies,10.7,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+188,37363,"Chattanooga, TN-GA",Central,91.9,92.4,83.6,94.3,91.7,51-75% of geographies,40.7,26.9,65.7,36.7,Top 25% of geographies,51-75% of geographies,51-75% of geographies,Top 25% of geographies
+189,37365,,Outlying,74.5,72.2,,,,Bottom 25% of geographies,8.0,,,,Bottom 25% of geographies,,,
+190,37366,,Outlying,91.0,90.4,100.0,,,51-75% of geographies,23.8,0.0,,,51-75% of geographies,Bottom 25% of geographies,,
+191,37367,,Outlying,82.7,82.2,89.4,100.0,41.6,26-50% of geographies,13.9,2.4,100.0,6.7,Bottom 25% of geographies,26-50% of geographies,Top 25% of geographies,26-50% of geographies
+192,37369,"Cleveland, TN",Outlying,52.5,53.6,0.0,,84.7,Bottom 25% of geographies,12.2,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+193,37370,"Athens, TN",Central,88.2,89.6,63.8,100.0,80.8,26-50% of geographies,15.4,0.0,0.0,0.0,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+194,37373,"Chattanooga, TN-GA",Central,94.9,95.0,100.0,,63.3,Top 25% of geographies,13.6,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+195,37374,"Chattanooga, TN-GA",Outlying,92.6,94.2,,,,51-75% of geographies,21.8,,,,26-50% of geographies,,,
+196,37375,"Tullahoma-Manchester, TN",Outlying,73.7,75.8,0.0,71.4,79.5,Bottom 25% of geographies,64.0,62.9,100.0,70.9,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+197,37376,"Tullahoma-Manchester, TN",Outlying,57.1,57.6,,,100.0,Bottom 25% of geographies,0.0,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+198,37377,"Chattanooga, TN-GA",Central,93.6,93.3,100.0,98.9,100.0,Top 25% of geographies,59.4,7.0,36.8,76.9,Top 25% of geographies,26-50% of geographies,26-50% of geographies,Top 25% of geographies
+199,37379,"Chattanooga, TN-GA",Central,93.5,93.7,100.0,100.0,94.1,Top 25% of geographies,25.2,40.9,66.7,31.7,51-75% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+200,37380,"Chattanooga, TN-GA",Outlying,72.6,71.3,74.4,100.0,100.0,Bottom 25% of geographies,10.1,0.0,25.6,0.0,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+201,37381,"Dayton, TN",Central,82.4,82.0,93.2,,26.7,26-50% of geographies,16.8,20.0,,0.0,26-50% of geographies,51-75% of geographies,,Bottom 25% of geographies
+202,37385,,Outlying,82.7,82.1,,100.0,95.4,26-50% of geographies,11.9,,0.0,18.8,Bottom 25% of geographies,,Bottom 25% of geographies,51-75% of geographies
+203,37387,,Outlying,79.2,78.4,,,100.0,Bottom 25% of geographies,13.8,,,35.5,Bottom 25% of geographies,,,Top 25% of geographies
+204,37388,"Tullahoma-Manchester, TN",Central,77.5,78.6,61.7,40.0,91.9,Bottom 25% of geographies,25.5,13.5,42.1,22.0,51-75% of geographies,26-50% of geographies,26-50% of geographies,51-75% of geographies
+205,37391,"Cleveland, TN",Outlying,84.9,83.9,,,,26-50% of geographies,11.5,,,,Bottom 25% of geographies,,,
+206,37394,,Outlying,61.6,72.8,0.0,,0.0,Bottom 25% of geographies,22.1,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+207,37396,"Chattanooga, TN-GA",Outlying,79.8,79.8,,,,Bottom 25% of geographies,0.0,,,,Bottom 25% of geographies,,,
+208,37397,"Chattanooga, TN-GA",Outlying,83.9,84.0,100.0,100.0,79.7,26-50% of geographies,11.3,87.7,0.0,8.6,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+209,37398,"Tullahoma-Manchester, TN",Outlying,79.5,79.0,76.2,100.0,62.6,Bottom 25% of geographies,23.0,28.0,26.5,0.0,51-75% of geographies,51-75% of geographies,26-50% of geographies,Bottom 25% of geographies
+210,37402,"Chattanooga, TN-GA",Central,78.8,86.5,75.0,100.0,80.6,Bottom 25% of geographies,42.9,5.7,61.5,46.5,Top 25% of geographies,26-50% of geographies,51-75% of geographies,Top 25% of geographies
+211,37403,"Chattanooga, TN-GA",Central,89.1,92.2,79.9,100.0,100.0,51-75% of geographies,48.7,17.4,100.0,24.4,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+212,37404,"Chattanooga, TN-GA",Central,86.2,92.1,79.6,42.0,86.9,26-50% of geographies,44.5,9.7,56.4,1.4,Top 25% of geographies,26-50% of geographies,51-75% of geographies,26-50% of geographies
+213,37405,"Chattanooga, TN-GA",Central,94.0,94.8,86.5,98.6,100.0,Top 25% of geographies,52.5,24.7,59.9,43.8,Top 25% of geographies,51-75% of geographies,51-75% of geographies,Top 25% of geographies
+214,37406,"Chattanooga, TN-GA",Central,75.0,73.3,74.4,71.9,85.4,Bottom 25% of geographies,20.4,12.1,84.6,20.2,26-50% of geographies,26-50% of geographies,Top 25% of geographies,51-75% of geographies
+215,37407,"Chattanooga, TN-GA",Central,75.7,77.8,65.8,,81.8,Bottom 25% of geographies,8.0,0.9,,2.0,Bottom 25% of geographies,26-50% of geographies,,26-50% of geographies
+216,37408,"Chattanooga, TN-GA",Central,86.7,92.5,77.6,100.0,58.8,26-50% of geographies,73.0,10.7,100.0,80.7,Top 25% of geographies,26-50% of geographies,Top 25% of geographies,Top 25% of geographies
+217,37409,"Chattanooga, TN-GA",Central,91.4,96.5,35.6,100.0,100.0,51-75% of geographies,64.4,4.7,53.8,31.0,Top 25% of geographies,26-50% of geographies,51-75% of geographies,51-75% of geographies
+218,37410,"Chattanooga, TN-GA",Central,85.7,100.0,82.7,,100.0,26-50% of geographies,5.7,7.1,,0.0,Bottom 25% of geographies,26-50% of geographies,,Bottom 25% of geographies
+219,37411,"Chattanooga, TN-GA",Central,87.7,91.4,83.0,100.0,85.5,26-50% of geographies,43.0,15.1,51.5,7.7,Top 25% of geographies,51-75% of geographies,51-75% of geographies,26-50% of geographies
+220,37412,"Chattanooga, TN-GA",Central,83.5,83.5,81.1,82.1,79.7,26-50% of geographies,22.8,15.1,33.1,11.0,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+221,37415,"Chattanooga, TN-GA",Central,90.0,90.5,84.2,85.2,86.2,51-75% of geographies,41.3,32.5,59.2,36.0,Top 25% of geographies,51-75% of geographies,51-75% of geographies,Top 25% of geographies
+222,37416,"Chattanooga, TN-GA",Central,86.8,92.1,81.8,100.0,78.0,26-50% of geographies,32.6,17.9,39.5,12.5,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+223,37419,"Chattanooga, TN-GA",Central,88.8,87.5,100.0,94.1,,51-75% of geographies,35.4,0.0,59.2,,51-75% of geographies,Bottom 25% of geographies,51-75% of geographies,
+224,37421,"Chattanooga, TN-GA",Central,91.0,91.0,88.9,98.7,92.8,51-75% of geographies,40.3,25.2,56.8,14.9,Top 25% of geographies,51-75% of geographies,51-75% of geographies,51-75% of geographies
+225,37601,"Johnson City, TN",Central,88.5,88.3,88.2,98.6,88.0,51-75% of geographies,30.9,36.0,78.2,17.1,51-75% of geographies,Top 25% of geographies,Top 25% of geographies,51-75% of geographies
+226,37604,"Johnson City, TN",Central,86.1,87.6,80.4,89.8,75.2,26-50% of geographies,37.8,37.4,80.3,15.1,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,51-75% of geographies
+227,37614,,Outlying,,,,,,,100.0,,100.0,100.0,Top 25% of geographies,,Top 25% of geographies,Top 25% of geographies
+228,37615,"Johnson City, TN",Central,91.8,92.2,82.9,100.0,74.6,51-75% of geographies,40.6,37.9,69.2,43.1,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+229,37616,"Greeneville, TN",Central,82.0,81.0,,100.0,75.6,26-50% of geographies,21.2,,0.0,75.6,26-50% of geographies,,Bottom 25% of geographies,Top 25% of geographies
+230,37617,"Kingsport-Bristol, TN-VA",Central,92.3,92.2,100.0,100.0,100.0,51-75% of geographies,28.2,0.0,0.0,40.6,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies
+231,37618,"Kingsport-Bristol, TN-VA",Central,82.5,82.0,91.9,66.7,98.9,26-50% of geographies,16.3,0.0,100.0,4.9,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,26-50% of geographies
+232,37620,"Kingsport-Bristol, TN-VA",Central,87.4,87.3,85.8,84.5,89.3,26-50% of geographies,26.1,23.0,66.3,37.3,51-75% of geographies,51-75% of geographies,51-75% of geographies,Top 25% of geographies
+233,37640,,Outlying,79.0,78.6,,100.0,100.0,Bottom 25% of geographies,14.1,,100.0,0.0,Bottom 25% of geographies,,Top 25% of geographies,Bottom 25% of geographies
+234,37641,"Greeneville, TN",Central,82.2,82.7,100.0,,54.6,26-50% of geographies,14.7,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+235,37642,"Kingsport-Bristol, TN-VA",Central,87.2,87.0,100.0,100.0,100.0,26-50% of geographies,16.8,0.0,82.4,0.0,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+236,37643,"Johnson City, TN",Central,80.5,80.5,76.6,34.9,84.3,Bottom 25% of geographies,18.9,6.6,63.7,16.5,26-50% of geographies,26-50% of geographies,51-75% of geographies,51-75% of geographies
+237,37645,"Kingsport-Bristol, TN-VA",Central,90.2,90.0,100.0,,100.0,51-75% of geographies,18.0,32.4,,0.0,26-50% of geographies,51-75% of geographies,,Bottom 25% of geographies
+238,37650,"Johnson City, TN",Outlying,80.2,81.0,100.0,,47.0,Bottom 25% of geographies,14.9,0.0,,15.7,26-50% of geographies,Bottom 25% of geographies,,51-75% of geographies
+239,37656,"Johnson City, TN",Central,81.6,81.2,,,100.0,26-50% of geographies,16.4,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+240,37657,"Johnson City, TN",Outlying,85.2,84.2,,,,26-50% of geographies,14.7,,,,26-50% of geographies,,,
+241,37658,"Johnson City, TN",Central,76.8,76.8,,,0.0,Bottom 25% of geographies,18.6,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+242,37659,"Johnson City, TN",Central,90.6,90.6,78.2,80.9,89.4,51-75% of geographies,28.9,20.2,51.4,29.7,51-75% of geographies,51-75% of geographies,51-75% of geographies,51-75% of geographies
+243,37660,"Kingsport-Bristol, TN-VA",Central,83.8,83.2,88.7,85.8,92.4,26-50% of geographies,22.0,11.5,54.2,28.4,26-50% of geographies,26-50% of geographies,51-75% of geographies,51-75% of geographies
+244,37663,"Kingsport-Bristol, TN-VA",Central,91.1,90.9,100.0,100.0,100.0,51-75% of geographies,32.7,66.7,40.9,66.7,51-75% of geographies,Top 25% of geographies,26-50% of geographies,Top 25% of geographies
+245,37664,"Kingsport-Bristol, TN-VA",Central,88.3,88.0,83.5,100.0,85.4,26-50% of geographies,32.0,11.5,59.9,17.9,51-75% of geographies,26-50% of geographies,51-75% of geographies,51-75% of geographies
+246,37665,"Kingsport-Bristol, TN-VA",Central,85.8,85.4,100.0,100.0,100.0,26-50% of geographies,11.7,0.0,0.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+247,37680,,Outlying,33.3,33.3,,,,Bottom 25% of geographies,0.0,,,,Bottom 25% of geographies,,,
+248,37681,"Johnson City, TN",Central,82.1,81.5,100.0,100.0,,26-50% of geographies,15.2,0.0,100.0,,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,
+249,37682,"Johnson City, TN",Central,100.0,100.0,,,,Top 25% of geographies,53.7,,,,Top 25% of geographies,,,
+250,37683,,Outlying,74.6,73.9,100.0,96.2,95.9,Bottom 25% of geographies,13.8,0.8,0.0,13.2,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+251,37686,"Kingsport-Bristol, TN-VA",Central,89.5,91.7,22.7,34.8,88.9,51-75% of geographies,29.9,0.0,6.2,15.0,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,51-75% of geographies
+252,37687,"Johnson City, TN",Central,71.7,71.6,,,97.6,Bottom 25% of geographies,15.9,0.0,,9.5,26-50% of geographies,Bottom 25% of geographies,,26-50% of geographies
+253,37688,,Outlying,75.0,74.0,,,0.0,Bottom 25% of geographies,19.7,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+254,37690,"Johnson City, TN",Central,87.2,86.5,100.0,,100.0,26-50% of geographies,18.5,0.0,,15.7,26-50% of geographies,Bottom 25% of geographies,,51-75% of geographies
+255,37691,,Outlying,90.8,90.1,,,,51-75% of geographies,0.0,,,,Bottom 25% of geographies,,,
+256,37692,"Johnson City, TN",Outlying,86.3,86.6,100.0,,76.7,26-50% of geographies,18.4,100.0,,0.0,26-50% of geographies,Top 25% of geographies,,Bottom 25% of geographies
+257,37694,"Johnson City, TN",Central,76.5,75.2,100.0,,100.0,Bottom 25% of geographies,19.0,0.0,,100.0,26-50% of geographies,Bottom 25% of geographies,,Top 25% of geographies
+258,37701,"Knoxville, TN",Central,83.9,82.2,87.0,100.0,57.1,26-50% of geographies,34.6,25.8,32.5,5.0,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+259,37705,"Knoxville, TN",Central,95.2,94.7,,,100.0,Top 25% of geographies,26.2,,,0.0,51-75% of geographies,,,Bottom 25% of geographies
+260,37708,"Morristown, TN",Outlying,77.5,78.0,100.0,,100.0,Bottom 25% of geographies,16.8,50.0,,20.5,26-50% of geographies,Top 25% of geographies,,51-75% of geographies
+261,37709,"Morristown, TN",Outlying,86.5,86.1,,,100.0,26-50% of geographies,19.6,,,47.6,26-50% of geographies,,,Top 25% of geographies
+262,37710,"Knoxville, TN",Central,77.3,77.3,,,100.0,Bottom 25% of geographies,3.0,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+263,37711,"Kingsport-Bristol, TN-VA",Central,68.4,68.4,,,100.0,Bottom 25% of geographies,10.9,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+264,37713,"Newport, TN",Central,73.6,73.4,,,100.0,Bottom 25% of geographies,5.6,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+265,37714,"Knoxville, TN",Outlying,78.2,78.7,,,27.0,Bottom 25% of geographies,11.9,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+266,37715,,Outlying,64.6,64.8,,,,Bottom 25% of geographies,3.6,,,,Bottom 25% of geographies,,,
+267,37716,"Knoxville, TN",Central,86.3,85.6,100.0,100.0,100.0,26-50% of geographies,16.9,6.3,8.9,50.8,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies
+268,37719,,Outlying,100.0,100.0,,,,Top 25% of geographies,17.4,,,,26-50% of geographies,,,
+269,37721,"Knoxville, TN",Central,86.8,87.0,69.2,,97.6,26-50% of geographies,15.2,30.0,,57.1,26-50% of geographies,51-75% of geographies,,Top 25% of geographies
+270,37722,"Newport, TN",Central,81.8,81.4,,,100.0,26-50% of geographies,14.6,,,10.1,26-50% of geographies,,,26-50% of geographies
+271,37723,"Crossville, TN",Central,81.9,81.3,,,100.0,26-50% of geographies,5.2,,,,Bottom 25% of geographies,,,
+272,37724,,Outlying,73.9,72.5,100.0,100.0,100.0,Bottom 25% of geographies,20.8,15.4,100.0,16.7,26-50% of geographies,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+273,37725,"Morristown, TN",Central,83.6,82.8,97.9,100.0,67.3,26-50% of geographies,18.5,0.0,78.9,24.0,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,51-75% of geographies
+274,37726,"Knoxville, TN",Outlying,81.5,82.0,,,59.5,26-50% of geographies,11.5,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+275,37727,"Newport, TN",Central,67.0,67.0,,,,Bottom 25% of geographies,7.4,,,,Bottom 25% of geographies,,,
+276,37729,"Knoxville, TN",Outlying,37.7,37.8,,,100.0,Bottom 25% of geographies,28.8,,,0.0,51-75% of geographies,,,Bottom 25% of geographies
+277,37730,,Outlying,75.6,75.6,,,,Bottom 25% of geographies,11.1,,,,Bottom 25% of geographies,,,
+278,37731,"Kingsport-Bristol, TN-VA",Central,64.5,64.5,,,,Bottom 25% of geographies,1.4,,,,Bottom 25% of geographies,,,
+279,37732,,Outlying,0.0,0.0,,,,Bottom 25% of geographies,0.0,,,,Bottom 25% of geographies,,,
+280,37733,"Knoxville, TN",Outlying,,,,,,,,,,,,,,
+281,37737,"Knoxville, TN",Central,88.3,88.3,100.0,100.0,100.0,26-50% of geographies,19.6,100.0,83.3,56.0,26-50% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+282,37738,"Sevierville, TN",Central,88.8,90.2,47.0,100.0,94.1,51-75% of geographies,23.2,44.9,84.5,5.3,51-75% of geographies,Top 25% of geographies,Top 25% of geographies,26-50% of geographies
+283,37742,"Knoxville, TN",Central,86.9,86.8,100.0,43.5,100.0,26-50% of geographies,16.9,0.0,0.0,63.3,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies
+284,37743,"Greeneville, TN",Central,82.5,82.3,76.7,100.0,78.6,26-50% of geographies,14.1,22.5,0.0,37.4,Bottom 25% of geographies,51-75% of geographies,Bottom 25% of geographies,Top 25% of geographies
+285,37745,"Greeneville, TN",Central,82.3,80.9,96.4,94.2,95.2,26-50% of geographies,24.7,24.0,1.8,7.3,51-75% of geographies,51-75% of geographies,Bottom 25% of geographies,26-50% of geographies
+286,37748,"Knoxville, TN",Outlying,86.4,85.7,92.2,93.1,100.0,26-50% of geographies,16.3,29.7,79.3,59.1,26-50% of geographies,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+287,37752,,Outlying,78.1,78.2,100.0,64.7,100.0,Bottom 25% of geographies,28.2,85.7,22.6,25.0,51-75% of geographies,Top 25% of geographies,26-50% of geographies,51-75% of geographies
+288,37753,"Newport, TN",Central,63.0,63.0,,,,Bottom 25% of geographies,13.0,,,,Bottom 25% of geographies,,,
+289,37754,"Knoxville, TN",Central,82.4,81.6,100.0,,100.0,26-50% of geographies,14.1,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+290,37755,,Outlying,84.8,84.2,,100.0,,26-50% of geographies,5.9,0.0,0.0,,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,
+291,37756,,Outlying,74.3,73.9,,100.0,,Bottom 25% of geographies,8.3,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+292,37757,"Knoxville, TN",Outlying,87.8,87.7,100.0,100.0,100.0,26-50% of geographies,14.7,0.0,100.0,59.4,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,Top 25% of geographies
+293,37760,"Morristown, TN",Central,85.2,84.4,100.0,80.0,90.6,26-50% of geographies,29.2,9.2,72.7,0.0,51-75% of geographies,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies
+294,37762,"Knoxville, TN",Outlying,67.4,68.2,0.0,,30.0,Bottom 25% of geographies,14.4,0.0,,30.0,Bottom 25% of geographies,Bottom 25% of geographies,,51-75% of geographies
+295,37763,"Knoxville, TN",Outlying,91.0,91.4,70.6,84.9,100.0,51-75% of geographies,24.6,0.0,13.2,0.0,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+296,37764,"Sevierville, TN",Central,87.0,87.2,,,47.6,26-50% of geographies,15.7,,,17.2,26-50% of geographies,,,51-75% of geographies
+297,37765,,Outlying,72.7,72.7,,,100.0,Bottom 25% of geographies,5.2,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+298,37766,"Knoxville, TN",Outlying,74.4,74.9,30.4,61.5,70.8,Bottom 25% of geographies,10.9,0.0,57.1,12.8,Bottom 25% of geographies,Bottom 25% of geographies,51-75% of geographies,26-50% of geographies
+299,37769,"Knoxville, TN",Central,85.4,85.1,100.0,,100.0,26-50% of geographies,12.1,0.0,,40.7,Bottom 25% of geographies,Bottom 25% of geographies,,Top 25% of geographies
+300,37770,"Knoxville, TN",Outlying,75.8,75.4,,,,Bottom 25% of geographies,10.0,,,,Bottom 25% of geographies,,,
+301,37771,"Knoxville, TN",Central,90.0,90.0,100.0,100.0,100.0,51-75% of geographies,18.8,0.0,0.0,12.3,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+302,37772,"Knoxville, TN",Central,93.5,93.5,100.0,100.0,100.0,Top 25% of geographies,41.7,22.7,95.3,45.7,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+303,37774,"Knoxville, TN",Central,84.3,83.3,100.0,100.0,96.4,26-50% of geographies,31.0,13.1,0.0,0.7,51-75% of geographies,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+304,37777,"Knoxville, TN",Central,88.9,88.8,80.4,47.3,98.2,51-75% of geographies,28.1,28.7,63.8,2.9,51-75% of geographies,51-75% of geographies,51-75% of geographies,26-50% of geographies
+305,37779,"Knoxville, TN",Outlying,75.1,74.2,,100.0,88.7,Bottom 25% of geographies,6.8,,0.0,5.2,Bottom 25% of geographies,,Bottom 25% of geographies,26-50% of geographies
+306,37801,"Knoxville, TN",Central,85.4,84.6,100.0,100.0,79.3,26-50% of geographies,23.1,36.3,68.8,15.6,51-75% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+307,37803,"Knoxville, TN",Central,90.3,91.0,67.8,100.0,80.3,51-75% of geographies,30.0,47.8,0.0,20.9,51-75% of geographies,Top 25% of geographies,Bottom 25% of geographies,51-75% of geographies
+308,37804,"Knoxville, TN",Central,88.6,88.0,85.6,100.0,91.5,51-75% of geographies,21.9,36.0,12.5,10.0,26-50% of geographies,Top 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+309,37806,"Knoxville, TN",Central,85.1,85.1,64.0,,0.0,26-50% of geographies,18.0,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+310,37807,"Knoxville, TN",Outlying,72.2,73.2,13.4,100.0,100.0,Bottom 25% of geographies,12.8,11.3,0.0,0.0,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+311,37809,"Greeneville, TN",Central,77.7,77.4,100.0,,,Bottom 25% of geographies,6.5,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+312,37810,"Greeneville, TN",Central,74.5,73.1,,,100.0,Bottom 25% of geographies,10.6,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+313,37811,"Kingsport-Bristol, TN-VA",Central,88.9,88.8,100.0,100.0,100.0,51-75% of geographies,9.3,0.0,0.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+314,37813,"Morristown, TN",Central,84.3,83.9,82.6,100.0,93.1,26-50% of geographies,10.6,26.7,41.6,3.6,Bottom 25% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+315,37814,"Morristown, TN",Central,87.9,88.0,81.5,100.0,90.1,26-50% of geographies,21.1,20.3,61.8,5.9,26-50% of geographies,51-75% of geographies,51-75% of geographies,26-50% of geographies
+316,37818,"Greeneville, TN",Central,72.8,72.6,100.0,,0.0,Bottom 25% of geographies,7.8,26.7,,0.0,Bottom 25% of geographies,51-75% of geographies,,Bottom 25% of geographies
+317,37819,"Knoxville, TN",Outlying,67.6,69.2,,,,Bottom 25% of geographies,12.4,,,,Bottom 25% of geographies,,,
+318,37820,"Morristown, TN",Central,81.4,80.8,87.6,100.0,91.5,Bottom 25% of geographies,16.3,0.0,16.7,10.7,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies
+319,37821,"Newport, TN",Central,75.4,75.6,39.7,91.9,65.1,Bottom 25% of geographies,11.8,10.9,0.0,4.1,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+320,37825,,Outlying,73.8,72.7,100.0,100.0,100.0,Bottom 25% of geographies,18.6,0.0,0.0,0.0,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+321,37826,"Athens, TN",Central,84.8,83.4,100.0,100.0,100.0,26-50% of geographies,17.4,26.1,13.3,8.7,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies,26-50% of geographies
+322,37828,"Knoxville, TN",Central,87.7,87.4,,100.0,,26-50% of geographies,57.7,,0.0,,Top 25% of geographies,,Bottom 25% of geographies,
+323,37829,"Knoxville, TN",Outlying,81.5,80.2,,,100.0,26-50% of geographies,4.6,,,5.3,Bottom 25% of geographies,,,26-50% of geographies
+324,37830,"Knoxville, TN",Central,94.3,94.6,92.7,100.0,97.8,Top 25% of geographies,40.3,19.4,82.7,15.7,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+325,37840,"Knoxville, TN",Outlying,87.9,87.7,,100.0,100.0,26-50% of geographies,16.3,,100.0,66.0,26-50% of geographies,,Top 25% of geographies,Top 25% of geographies
+326,37841,,Outlying,77.4,77.5,0.0,,100.0,Bottom 25% of geographies,11.9,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+327,37843,"Newport, TN",Central,78.3,77.7,82.1,,100.0,Bottom 25% of geographies,14.0,21.1,,0.0,Bottom 25% of geographies,51-75% of geographies,,Bottom 25% of geographies
+328,37845,,Outlying,40.1,40.1,,,,Bottom 25% of geographies,0.0,,,,Bottom 25% of geographies,,,
+329,37846,"Knoxville, TN",Central,82.1,80.0,100.0,,94.7,26-50% of geographies,16.5,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+330,37847,"Knoxville, TN",Outlying,76.6,76.6,,100.0,,Bottom 25% of geographies,7.7,,,,Bottom 25% of geographies,,,
+331,37848,"Morristown, TN",Outlying,51.9,48.6,,,,Bottom 25% of geographies,15.2,,,,26-50% of geographies,,,
+332,37849,"Knoxville, TN",Central,91.7,92.0,67.2,28.3,75.6,51-75% of geographies,29.5,34.9,2.2,5.0,51-75% of geographies,Top 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+333,37851,,Outlying,,,,,,,,,,,,,,
+334,37852,,Outlying,66.1,65.7,,,100.0,Bottom 25% of geographies,7.8,,,100.0,Bottom 25% of geographies,,,Top 25% of geographies
+335,37853,"Knoxville, TN",Central,85.2,85.0,89.2,0.0,31.5,26-50% of geographies,16.4,0.0,0.0,2.7,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+336,37854,"Knoxville, TN",Outlying,86.1,85.7,100.0,76.8,100.0,26-50% of geographies,14.7,43.2,43.9,42.3,26-50% of geographies,Top 25% of geographies,26-50% of geographies,Top 25% of geographies
+337,37857,"Kingsport-Bristol, TN-VA",Central,82.5,82.5,81.9,34.9,99.1,26-50% of geographies,16.9,18.0,30.8,2.7,26-50% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+338,37860,"Morristown, TN",Central,92.5,92.6,,,100.0,51-75% of geographies,12.1,,,27.2,Bottom 25% of geographies,,,51-75% of geographies
+339,37861,"Morristown, TN",Outlying,75.9,75.9,0.0,100.0,33.0,Bottom 25% of geographies,8.9,0.0,0.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+340,37862,"Sevierville, TN",Central,82.1,81.1,49.5,93.8,74.2,26-50% of geographies,21.8,0.0,49.0,0.5,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies,26-50% of geographies
+341,37863,"Sevierville, TN",Central,77.8,78.6,,100.0,85.5,Bottom 25% of geographies,13.0,0.0,19.8,0.0,Bottom 25% of geographies,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+342,37865,"Sevierville, TN",Central,91.0,91.0,94.6,75.7,100.0,51-75% of geographies,21.7,28.8,0.0,36.1,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies,Top 25% of geographies
+343,37866,"Knoxville, TN",Outlying,83.0,82.8,,,,26-50% of geographies,19.9,,,,26-50% of geographies,,,
+344,37869,,Outlying,70.7,71.1,,0.0,100.0,Bottom 25% of geographies,8.3,0.0,100.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+345,37870,,Outlying,68.4,68.3,,,100.0,Bottom 25% of geographies,14.2,,,50.0,Bottom 25% of geographies,,,Top 25% of geographies
+346,37871,"Knoxville, TN",Central,86.9,86.5,86.5,100.0,79.6,26-50% of geographies,13.8,0.0,100.0,36.6,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,Top 25% of geographies
+347,37872,"Knoxville, TN",Outlying,78.8,78.5,,,100.0,Bottom 25% of geographies,5.6,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+348,37873,"Kingsport-Bristol, TN-VA",Central,78.1,77.5,100.0,100.0,85.7,Bottom 25% of geographies,10.4,,100.0,36.4,Bottom 25% of geographies,,Top 25% of geographies,Top 25% of geographies
+349,37874,,Outlying,86.3,85.6,86.9,100.0,90.9,26-50% of geographies,16.4,7.5,62.2,2.6,26-50% of geographies,26-50% of geographies,51-75% of geographies,26-50% of geographies
+350,37876,"Sevierville, TN",Central,82.4,83.1,94.7,100.0,59.6,26-50% of geographies,16.4,74.6,0.0,14.1,26-50% of geographies,Top 25% of geographies,Bottom 25% of geographies,51-75% of geographies
+351,37877,"Morristown, TN",Central,87.6,87.6,80.7,100.0,100.0,26-50% of geographies,18.4,0.0,100.0,61.6,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,Top 25% of geographies
+352,37878,"Knoxville, TN",Central,77.7,77.3,,,,Bottom 25% of geographies,26.1,,,,51-75% of geographies,,,
+353,37879,,Outlying,75.0,75.2,53.8,85.3,100.0,Bottom 25% of geographies,14.4,0.0,7.4,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+354,37880,,Outlying,79.9,78.1,100.0,0.0,100.0,Bottom 25% of geographies,16.7,0.0,0.0,63.1,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies
+355,37881,"Morristown, TN",Outlying,68.0,69.1,,,100.0,Bottom 25% of geographies,9.0,,,,Bottom 25% of geographies,,,
+356,37882,"Knoxville, TN",Central,82.3,82.0,100.0,100.0,100.0,26-50% of geographies,32.3,0.0,78.6,0.0,51-75% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+357,37885,,Outlying,91.5,91.4,100.0,100.0,83.3,51-75% of geographies,25.4,0.0,31.4,40.0,51-75% of geographies,Bottom 25% of geographies,26-50% of geographies,Top 25% of geographies
+358,37886,"Knoxville, TN",Central,91.3,91.2,,100.0,100.0,51-75% of geographies,23.7,,100.0,36.1,51-75% of geographies,,Top 25% of geographies,Top 25% of geographies
+359,37887,"Knoxville, TN",Outlying,73.2,73.8,100.0,0.0,70.1,Bottom 25% of geographies,9.7,0.7,77.8,5.7,Bottom 25% of geographies,26-50% of geographies,Top 25% of geographies,26-50% of geographies
+360,37888,"Morristown, TN",Outlying,71.5,71.4,,0.0,31.9,Bottom 25% of geographies,9.6,,0.0,0.0,Bottom 25% of geographies,,Bottom 25% of geographies,Bottom 25% of geographies
+361,37890,"Morristown, TN",Central,82.7,82.3,0.0,100.0,75.5,26-50% of geographies,18.9,0.0,100.0,0.0,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+362,37891,"Morristown, TN",Central,87.4,87.3,,,100.0,26-50% of geographies,17.8,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+363,37892,,Outlying,69.5,68.7,100.0,,100.0,Bottom 25% of geographies,11.5,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+364,37902,"Knoxville, TN",Central,86.0,87.8,14.1,100.0,100.0,26-50% of geographies,59.9,0.0,100.0,73.7,Top 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,Top 25% of geographies
+365,37909,"Knoxville, TN",Central,88.7,89.0,95.8,68.4,70.6,51-75% of geographies,41.6,50.5,87.1,42.7,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+366,37912,"Knoxville, TN",Central,85.3,85.2,80.6,99.4,96.2,26-50% of geographies,21.3,14.8,25.4,12.1,26-50% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+367,37914,"Knoxville, TN",Central,82.3,87.9,77.5,81.8,44.3,26-50% of geographies,25.3,15.0,30.7,5.7,51-75% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+368,37915,"Knoxville, TN",Central,69.8,89.4,55.2,,100.0,Bottom 25% of geographies,29.3,6.6,,43.1,51-75% of geographies,26-50% of geographies,,Top 25% of geographies
+369,37916,"Knoxville, TN",Central,66.9,69.5,33.8,92.7,79.1,Bottom 25% of geographies,48.3,27.5,95.8,100.0,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,Top 25% of geographies
+370,37917,"Knoxville, TN",Central,81.3,84.7,60.0,100.0,68.3,Bottom 25% of geographies,33.7,11.9,45.8,13.7,51-75% of geographies,26-50% of geographies,26-50% of geographies,51-75% of geographies
+371,37918,"Knoxville, TN",Central,85.3,86.6,72.3,88.8,78.5,26-50% of geographies,29.4,18.8,26.5,16.0,51-75% of geographies,51-75% of geographies,26-50% of geographies,51-75% of geographies
+372,37919,"Knoxville, TN",Central,92.4,92.8,78.1,100.0,90.2,51-75% of geographies,60.4,38.7,77.5,39.7,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+373,37920,"Knoxville, TN",Central,85.7,86.1,71.1,94.1,91.8,26-50% of geographies,33.0,22.7,92.0,32.0,51-75% of geographies,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+374,37921,"Knoxville, TN",Central,86.5,88.2,78.6,95.0,81.5,26-50% of geographies,29.5,16.8,89.6,17.3,51-75% of geographies,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+375,37922,"Knoxville, TN",Central,98.0,98.0,98.2,96.8,100.0,Top 25% of geographies,65.8,78.0,81.0,62.0,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+376,37923,"Knoxville, TN",Central,94.0,94.2,95.6,95.8,90.0,Top 25% of geographies,48.0,27.8,58.8,8.0,Top 25% of geographies,51-75% of geographies,51-75% of geographies,26-50% of geographies
+377,37924,"Knoxville, TN",Central,85.8,84.3,91.2,100.0,100.0,26-50% of geographies,22.5,31.1,59.3,2.3,51-75% of geographies,51-75% of geographies,51-75% of geographies,26-50% of geographies
+378,37931,"Knoxville, TN",Central,94.4,94.4,94.4,89.4,88.1,Top 25% of geographies,44.4,25.1,52.6,30.7,Top 25% of geographies,51-75% of geographies,51-75% of geographies,51-75% of geographies
+379,37932,"Knoxville, TN",Central,93.4,94.7,100.0,97.6,47.0,51-75% of geographies,51.5,71.5,75.0,11.8,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,26-50% of geographies
+380,37934,"Knoxville, TN",Central,95.7,96.1,95.7,86.6,100.0,Top 25% of geographies,61.5,46.5,80.4,71.1,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+381,37938,"Knoxville, TN",Central,90.5,90.1,100.0,86.1,100.0,51-75% of geographies,30.5,24.3,13.6,0.0,51-75% of geographies,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+382,38001,"Jackson, TN",Outlying,86.9,85.3,80.1,80.0,99.2,26-50% of geographies,13.3,12.0,57.1,0.0,Bottom 25% of geographies,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies
+383,38002,"Memphis, TN-MS-AR",Central,96.7,97.0,95.9,98.9,95.3,Top 25% of geographies,43.6,44.8,46.3,33.1,Top 25% of geographies,Top 25% of geographies,26-50% of geographies,Top 25% of geographies
+384,38004,"Memphis, TN-MS-AR",Outlying,92.6,93.2,87.2,100.0,78.6,51-75% of geographies,29.0,35.7,28.1,42.9,51-75% of geographies,Top 25% of geographies,26-50% of geographies,Top 25% of geographies
+385,38006,"Jackson, TN",Outlying,88.5,88.5,84.2,100.0,98.0,51-75% of geographies,16.8,13.7,100.0,0.7,26-50% of geographies,26-50% of geographies,Top 25% of geographies,26-50% of geographies
+386,38007,,Outlying,0.0,0.0,,,,Bottom 25% of geographies,0.0,,,,Bottom 25% of geographies,,,
+387,38008,,Outlying,79.6,86.9,73.2,100.0,100.0,Bottom 25% of geographies,22.0,8.1,56.3,12.2,26-50% of geographies,26-50% of geographies,51-75% of geographies,26-50% of geographies
+388,38011,"Memphis, TN-MS-AR",Outlying,88.7,88.5,87.5,100.0,75.1,51-75% of geographies,19.5,7.6,45.6,5.3,26-50% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+389,38012,"Brownsville, TN",Central,78.7,80.6,76.1,100.0,71.9,Bottom 25% of geographies,17.5,5.9,27.6,5.4,26-50% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+390,38015,"Memphis, TN-MS-AR",Outlying,84.5,82.6,98.5,100.0,0.0,26-50% of geographies,11.9,0.0,100.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+391,38016,"Memphis, TN-MS-AR",Central,94.6,93.7,95.3,100.0,90.7,Top 25% of geographies,42.5,39.8,50.3,36.5,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+392,38017,"Memphis, TN-MS-AR",Central,96.8,97.2,91.4,99.2,96.9,Top 25% of geographies,57.4,51.1,84.3,29.0,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,51-75% of geographies
+393,38018,"Memphis, TN-MS-AR",Central,95.4,94.4,96.6,99.2,76.5,Top 25% of geographies,47.4,43.7,48.0,31.0,Top 25% of geographies,Top 25% of geographies,26-50% of geographies,51-75% of geographies
+394,38019,"Memphis, TN-MS-AR",Outlying,76.6,78.3,72.6,100.0,92.5,Bottom 25% of geographies,16.0,12.0,0.0,28.4,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+395,38021,,Outlying,100.0,100.0,,,,Top 25% of geographies,58.3,,,,Top 25% of geographies,,,
+396,38023,"Memphis, TN-MS-AR",Outlying,85.4,90.5,27.7,100.0,100.0,26-50% of geographies,19.1,0.0,23.2,0.0,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies
+397,38024,"Dyersburg, TN",Central,86.9,88.8,78.5,100.0,83.1,26-50% of geographies,22.9,6.3,0.0,20.4,51-75% of geographies,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+398,38028,"Memphis, TN-MS-AR",Outlying,95.5,96.1,92.2,100.0,100.0,Top 25% of geographies,48.6,35.4,34.0,3.6,Top 25% of geographies,Top 25% of geographies,26-50% of geographies,26-50% of geographies
+399,38029,"Memphis, TN-MS-AR",Central,100.0,100.0,,,,Top 25% of geographies,48.3,,,,Top 25% of geographies,,,
+400,38030,"Dyersburg, TN",Central,100.0,100.0,,,,Top 25% of geographies,32.3,,,,51-75% of geographies,,,
+401,38034,"Jackson, TN",Outlying,83.7,82.1,96.7,50.0,100.0,26-50% of geographies,16.0,13.0,50.0,55.0,26-50% of geographies,26-50% of geographies,51-75% of geographies,Top 25% of geographies
+402,38036,,Outlying,56.2,65.0,50.0,,100.0,Bottom 25% of geographies,15.7,0.0,,100.0,26-50% of geographies,Bottom 25% of geographies,,Top 25% of geographies
+403,38037,,Outlying,79.7,83.1,70.8,,,Bottom 25% of geographies,7.1,12.3,,,Bottom 25% of geographies,26-50% of geographies,,
+404,38039,,Outlying,74.4,76.6,73.4,,100.0,Bottom 25% of geographies,15.7,10.4,,0.0,26-50% of geographies,26-50% of geographies,,Bottom 25% of geographies
+405,38040,,Outlying,89.5,90.8,76.4,,92.2,51-75% of geographies,11.2,8.1,,0.0,Bottom 25% of geographies,26-50% of geographies,,Bottom 25% of geographies
+406,38041,,Outlying,84.2,88.6,75.5,100.0,100.0,26-50% of geographies,8.5,3.9,0.0,44.3,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies
+407,38042,,Outlying,86.6,83.0,100.0,100.0,,26-50% of geographies,19.0,0.0,100.0,,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,
+408,38044,,Outlying,63.0,62.1,100.0,,,Bottom 25% of geographies,17.3,40.0,,,26-50% of geographies,Top 25% of geographies,,
+409,38046,,Outlying,87.5,87.5,,,,26-50% of geographies,50.0,,,,Top 25% of geographies,,,
+410,38047,"Dyersburg, TN",Central,100.0,100.0,,,,Top 25% of geographies,0.0,,,,Bottom 25% of geographies,,,
+411,38049,"Memphis, TN-MS-AR",Outlying,81.7,90.4,79.4,87.5,100.0,26-50% of geographies,15.9,10.7,64.9,0.0,26-50% of geographies,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies
+412,38050,,Outlying,82.1,85.6,77.7,,65.3,26-50% of geographies,21.5,6.3,,0.0,26-50% of geographies,26-50% of geographies,,Bottom 25% of geographies
+413,38052,,Outlying,80.2,79.4,79.1,100.0,100.0,Bottom 25% of geographies,14.3,7.1,76.3,0.0,Bottom 25% of geographies,26-50% of geographies,Top 25% of geographies,Bottom 25% of geographies
+414,38053,"Memphis, TN-MS-AR",Central,79.4,82.7,70.1,97.8,72.4,Bottom 25% of geographies,18.5,18.8,79.0,10.8,26-50% of geographies,51-75% of geographies,Top 25% of geographies,26-50% of geographies
+415,38054,,Outlying,,,,,,,9.6,0.0,0.0,,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,
+416,38057,"Memphis, TN-MS-AR",Outlying,87.1,88.0,85.1,,100.0,26-50% of geographies,17.6,8.6,,0.0,26-50% of geographies,26-50% of geographies,,Bottom 25% of geographies
+417,38058,"Memphis, TN-MS-AR",Outlying,89.1,90.7,68.4,100.0,100.0,51-75% of geographies,20.7,14.4,0.0,32.4,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+418,38059,"Dyersburg, TN",Central,89.9,88.5,91.6,100.0,100.0,51-75% of geographies,23.9,20.6,0.0,51.5,51-75% of geographies,51-75% of geographies,Bottom 25% of geographies,Top 25% of geographies
+419,38060,"Memphis, TN-MS-AR",Outlying,89.8,92.1,80.9,100.0,92.6,51-75% of geographies,26.9,15.5,0.0,37.1,51-75% of geographies,51-75% of geographies,Bottom 25% of geographies,Top 25% of geographies
+420,38061,,Outlying,86.0,83.6,100.0,,100.0,26-50% of geographies,10.0,19.8,,100.0,Bottom 25% of geographies,51-75% of geographies,,Top 25% of geographies
+421,38063,,Outlying,78.7,82.4,71.6,100.0,66.2,Bottom 25% of geographies,11.2,7.7,24.4,0.0,Bottom 25% of geographies,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies
+422,38066,"Memphis, TN-MS-AR",Outlying,83.7,88.8,72.5,90.0,100.0,26-50% of geographies,33.4,16.7,52.2,28.6,51-75% of geographies,51-75% of geographies,51-75% of geographies,51-75% of geographies
+423,38067,,Outlying,81.5,83.9,56.6,,0.0,26-50% of geographies,3.1,15.6,,0.0,Bottom 25% of geographies,51-75% of geographies,,Bottom 25% of geographies
+424,38068,"Memphis, TN-MS-AR",Outlying,82.1,88.0,73.2,100.0,90.7,26-50% of geographies,15.4,8.8,30.8,42.4,26-50% of geographies,26-50% of geographies,26-50% of geographies,Top 25% of geographies
+425,38069,"Brownsville, TN",Central,61.1,79.8,51.9,,0.0,Bottom 25% of geographies,14.2,5.4,,85.9,Bottom 25% of geographies,26-50% of geographies,,Top 25% of geographies
+426,38070,,Outlying,100.0,100.0,100.0,,,Top 25% of geographies,0.0,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+427,38075,,Outlying,74.3,70.1,78.8,,100.0,Bottom 25% of geographies,8.4,6.1,52.9,1.3,Bottom 25% of geographies,26-50% of geographies,51-75% of geographies,26-50% of geographies
+428,38076,"Memphis, TN-MS-AR",Outlying,88.3,94.4,74.5,,25.0,26-50% of geographies,23.7,0.9,,0.0,51-75% of geographies,26-50% of geographies,,Bottom 25% of geographies
+429,38077,,Outlying,100.0,100.0,,,,Top 25% of geographies,0.0,,,,Bottom 25% of geographies,,,
+430,38079,,Outlying,72.2,74.2,64.5,,100.0,Bottom 25% of geographies,13.8,4.0,100.0,0.0,Bottom 25% of geographies,26-50% of geographies,Top 25% of geographies,Bottom 25% of geographies
+431,38080,,Outlying,81.6,80.1,85.6,,98.5,26-50% of geographies,7.9,28.2,,20.0,Bottom 25% of geographies,51-75% of geographies,,51-75% of geographies
+432,38103,"Memphis, TN-MS-AR",Central,89.5,92.2,79.1,94.2,93.0,51-75% of geographies,74.7,42.0,94.8,61.1,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+433,38104,"Memphis, TN-MS-AR",Central,83.9,90.9,66.8,82.4,89.6,26-50% of geographies,58.7,25.8,68.4,52.6,Top 25% of geographies,51-75% of geographies,51-75% of geographies,Top 25% of geographies
+434,38105,"Memphis, TN-MS-AR",Central,65.4,89.5,60.1,100.0,78.5,Bottom 25% of geographies,42.7,17.7,90.1,23.7,Top 25% of geographies,51-75% of geographies,Top 25% of geographies,51-75% of geographies
+435,38106,"Memphis, TN-MS-AR",Central,47.8,60.6,47.4,22.2,60.6,Bottom 25% of geographies,38.4,11.9,0.0,4.2,Top 25% of geographies,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+436,38107,"Memphis, TN-MS-AR",Central,75.9,94.4,70.2,100.0,95.4,Bottom 25% of geographies,62.3,12.6,88.7,32.4,Top 25% of geographies,26-50% of geographies,Top 25% of geographies,51-75% of geographies
+437,38108,"Memphis, TN-MS-AR",Central,65.5,69.1,63.2,100.0,66.6,Bottom 25% of geographies,7.0,9.1,0.0,13.7,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+438,38109,"Memphis, TN-MS-AR",Central,65.5,42.2,65.7,,67.0,Bottom 25% of geographies,8.7,13.4,,0.0,Bottom 25% of geographies,26-50% of geographies,,Bottom 25% of geographies
+439,38111,"Memphis, TN-MS-AR",Central,77.5,90.2,69.3,92.3,64.7,Bottom 25% of geographies,62.5,15.1,73.1,19.9,Top 25% of geographies,51-75% of geographies,51-75% of geographies,51-75% of geographies
+440,38112,"Memphis, TN-MS-AR",Central,71.6,90.8,58.3,100.0,73.8,Bottom 25% of geographies,64.8,17.8,28.7,23.9,Top 25% of geographies,51-75% of geographies,26-50% of geographies,51-75% of geographies
+441,38114,"Memphis, TN-MS-AR",Central,61.6,73.1,60.9,100.0,62.4,Bottom 25% of geographies,39.9,11.7,100.0,4.0,Top 25% of geographies,26-50% of geographies,Top 25% of geographies,26-50% of geographies
+442,38115,"Memphis, TN-MS-AR",Central,92.4,71.4,93.9,73.9,92.1,51-75% of geographies,29.0,15.8,30.5,2.2,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+443,38116,"Memphis, TN-MS-AR",Central,75.5,68.5,75.7,0.0,70.9,Bottom 25% of geographies,15.9,17.4,0.0,6.9,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies,26-50% of geographies
+444,38117,"Memphis, TN-MS-AR",Central,93.1,93.4,88.7,98.1,96.7,51-75% of geographies,64.1,46.9,62.3,44.0,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,Top 25% of geographies
+445,38118,"Memphis, TN-MS-AR",Central,89.2,74.3,91.0,99.1,82.0,51-75% of geographies,14.5,9.9,19.2,2.0,26-50% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+446,38119,"Memphis, TN-MS-AR",Central,94.1,94.7,92.2,100.0,100.0,Top 25% of geographies,57.9,39.2,50.7,27.8,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,51-75% of geographies
+447,38120,"Memphis, TN-MS-AR",Central,96.5,96.4,94.7,98.2,100.0,Top 25% of geographies,70.2,56.2,83.5,67.6,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+448,38122,"Memphis, TN-MS-AR",Central,83.1,78.9,76.4,95.6,85.3,26-50% of geographies,28.4,6.5,28.0,9.7,51-75% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+449,38125,"Memphis, TN-MS-AR",Central,94.8,96.8,95.0,92.1,94.9,Top 25% of geographies,46.3,34.6,72.9,12.7,Top 25% of geographies,Top 25% of geographies,51-75% of geographies,26-50% of geographies
+450,38126,"Memphis, TN-MS-AR",Central,52.6,83.3,51.4,,100.0,Bottom 25% of geographies,9.5,7.9,,0.0,Bottom 25% of geographies,26-50% of geographies,,Bottom 25% of geographies
+451,38127,"Memphis, TN-MS-AR",Central,72.6,69.6,73.6,100.0,42.6,Bottom 25% of geographies,8.6,9.3,60.5,0.0,Bottom 25% of geographies,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies
+452,38128,"Memphis, TN-MS-AR",Central,81.8,83.5,82.1,90.7,80.0,26-50% of geographies,12.8,14.0,0.0,3.8,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+453,38131,"Memphis, TN-MS-AR",Central,,,,,,,,,,,,,,
+454,38132,"Memphis, TN-MS-AR",Central,,,,,,,0.0,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+455,38133,"Memphis, TN-MS-AR",Central,92.1,93.1,92.1,99.3,85.9,51-75% of geographies,34.3,34.2,36.3,6.2,51-75% of geographies,Top 25% of geographies,26-50% of geographies,26-50% of geographies
+456,38134,"Memphis, TN-MS-AR",Central,91.8,89.2,94.1,97.3,89.2,51-75% of geographies,20.6,16.6,28.7,7.7,26-50% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+457,38135,"Memphis, TN-MS-AR",Central,93.1,93.5,92.6,97.3,74.7,51-75% of geographies,34.7,44.8,45.0,32.0,51-75% of geographies,Top 25% of geographies,26-50% of geographies,51-75% of geographies
+458,38138,"Memphis, TN-MS-AR",Central,94.6,94.0,97.5,99.0,93.9,Top 25% of geographies,64.7,72.9,78.6,62.4,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+459,38139,"Memphis, TN-MS-AR",Central,96.3,95.9,100.0,100.0,100.0,Top 25% of geographies,70.9,88.3,84.3,59.3,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies,Top 25% of geographies
+460,38141,"Memphis, TN-MS-AR",Central,95.6,87.4,96.4,,92.1,Top 25% of geographies,11.9,18.1,,3.4,Bottom 25% of geographies,51-75% of geographies,,26-50% of geographies
+461,38152,"Memphis, TN-MS-AR",Central,,,,,,,,0.0,,,,Bottom 25% of geographies,,
+462,38201,,Outlying,79.4,78.7,82.1,89.1,94.1,Bottom 25% of geographies,27.5,12.8,14.3,15.3,51-75% of geographies,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+463,38220,,Outlying,84.0,81.7,85.8,,84.3,26-50% of geographies,17.5,4.7,,0.0,26-50% of geographies,26-50% of geographies,,Bottom 25% of geographies
+464,38221,,Outlying,64.4,64.0,100.0,100.0,100.0,Bottom 25% of geographies,10.3,100.0,0.0,0.0,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+465,38222,"Paris, TN",Central,90.5,89.6,100.0,,100.0,51-75% of geographies,25.1,0.0,,0.0,51-75% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+466,38224,"Paris, TN",Central,71.5,71.7,61.5,,64.3,Bottom 25% of geographies,15.5,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+467,38225,"Martin, TN",Central,80.4,84.8,2.7,,38.7,Bottom 25% of geographies,18.7,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+468,38226,"Martin, TN",Central,49.1,49.3,,,,Bottom 25% of geographies,4.1,,,,Bottom 25% of geographies,,,
+469,38229,"Martin, TN",Central,74.2,73.4,54.8,100.0,100.0,Bottom 25% of geographies,18.5,0.0,100.0,0.0,26-50% of geographies,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies
+470,38230,"Martin, TN",Central,79.4,78.6,89.4,63.5,60.0,Bottom 25% of geographies,17.0,12.6,0.0,0.0,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+471,38231,"Paris, TN",Central,78.6,80.9,51.2,100.0,56.4,Bottom 25% of geographies,9.1,14.3,0.0,0.0,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+472,38232,"Union City, TN",Central,71.1,70.2,100.0,100.0,100.0,Bottom 25% of geographies,9.7,0.0,0.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+473,38233,"Jackson, TN",Outlying,85.4,84.4,87.0,100.0,100.0,26-50% of geographies,12.6,0.0,100.0,,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies,
+474,38235,,Outlying,93.4,91.1,100.0,,,51-75% of geographies,12.5,56.3,,,Bottom 25% of geographies,Top 25% of geographies,,
+475,38236,"Paris, TN",Central,81.0,82.7,0.0,,,Bottom 25% of geographies,9.5,46.7,,,Bottom 25% of geographies,Top 25% of geographies,,
+476,38237,"Martin, TN",Central,83.5,83.2,82.6,100.0,68.8,26-50% of geographies,28.2,21.0,36.7,9.1,51-75% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+477,38240,"Union City, TN",Central,85.9,87.7,63.8,100.0,91.4,26-50% of geographies,11.9,27.0,100.0,0.0,Bottom 25% of geographies,51-75% of geographies,Top 25% of geographies,Bottom 25% of geographies
+478,38241,"Martin, TN",Central,74.1,73.4,,,100.0,Bottom 25% of geographies,13.5,,,100.0,Bottom 25% of geographies,,,Top 25% of geographies
+479,38242,"Paris, TN",Central,81.7,83.5,67.5,100.0,90.8,26-50% of geographies,20.5,4.8,0.0,24.4,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+480,38251,"Paris, TN",Central,86.1,87.9,65.7,70.8,68.7,26-50% of geographies,16.5,16.9,29.2,4.0,26-50% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+481,38253,"Union City, TN",Central,85.8,83.7,82.8,,100.0,26-50% of geographies,25.2,17.2,,30.2,51-75% of geographies,51-75% of geographies,,51-75% of geographies
+482,38254,,Outlying,,,,,,,,,,,,,,
+483,38255,"Martin, TN",Central,73.9,73.1,75.0,100.0,100.0,Bottom 25% of geographies,17.5,26.4,36.7,0.0,26-50% of geographies,51-75% of geographies,26-50% of geographies,Bottom 25% of geographies
+484,38256,"Paris, TN",Central,78.0,79.1,0.0,100.0,100.0,Bottom 25% of geographies,17.8,0.0,0.0,25.0,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,51-75% of geographies
+485,38257,"Union City, TN",Central,78.0,81.1,77.0,69.4,43.7,Bottom 25% of geographies,18.4,18.1,26.5,0.0,26-50% of geographies,51-75% of geographies,26-50% of geographies,Bottom 25% of geographies
+486,38258,,Outlying,82.2,87.3,52.0,,97.8,26-50% of geographies,17.0,20.9,,0.0,26-50% of geographies,51-75% of geographies,,Bottom 25% of geographies
+487,38259,"Dyersburg, TN",Central,82.6,82.7,100.0,100.0,0.0,26-50% of geographies,8.3,0.0,50.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,51-75% of geographies,Bottom 25% of geographies
+488,38260,"Union City, TN",Central,86.5,86.1,100.0,,100.0,26-50% of geographies,14.8,100.0,,38.7,26-50% of geographies,Top 25% of geographies,,Top 25% of geographies
+489,38261,"Union City, TN",Central,84.8,86.4,83.5,100.0,59.1,26-50% of geographies,18.5,7.2,67.9,3.1,26-50% of geographies,26-50% of geographies,51-75% of geographies,26-50% of geographies
+490,38301,"Jackson, TN",Central,82.4,88.4,76.2,100.0,98.2,26-50% of geographies,21.0,9.5,100.0,7.3,26-50% of geographies,26-50% of geographies,Top 25% of geographies,26-50% of geographies
+491,38305,"Jackson, TN",Central,90.7,93.0,85.1,99.1,89.1,51-75% of geographies,41.6,22.6,48.8,12.3,Top 25% of geographies,51-75% of geographies,51-75% of geographies,26-50% of geographies
+492,38310,,Outlying,87.7,87.2,98.9,,100.0,26-50% of geographies,13.3,75.0,,6.4,Bottom 25% of geographies,Top 25% of geographies,,26-50% of geographies
+493,38311,,Outlying,85.0,89.5,0.0,,,26-50% of geographies,25.5,0.0,,,51-75% of geographies,Bottom 25% of geographies,,
+494,38313,"Jackson, TN",Central,92.2,91.8,100.0,,,51-75% of geographies,22.7,9.0,,,51-75% of geographies,26-50% of geographies,,
+495,38315,,Outlying,89.5,88.8,89.2,,100.0,51-75% of geographies,10.8,7.8,,17.4,Bottom 25% of geographies,26-50% of geographies,,51-75% of geographies
+496,38316,"Jackson, TN",Outlying,81.1,81.6,87.2,,100.0,Bottom 25% of geographies,10.1,31.4,,21.4,Bottom 25% of geographies,51-75% of geographies,,51-75% of geographies
+497,38317,,Outlying,78.1,77.4,75.0,100.0,100.0,Bottom 25% of geographies,14.1,13.6,0.0,,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies,
+498,38318,,Outlying,91.0,91.7,100.0,,0.0,51-75% of geographies,25.3,0.0,,0.0,51-75% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+499,38320,,Outlying,84.7,84.0,88.1,100.0,100.0,26-50% of geographies,13.6,17.1,,0.0,Bottom 25% of geographies,51-75% of geographies,,Bottom 25% of geographies
+500,38321,,Outlying,71.5,70.7,80.1,100.0,,Bottom 25% of geographies,8.0,5.2,,,Bottom 25% of geographies,26-50% of geographies,,
+501,38326,,Outlying,86.2,86.4,,,0.0,26-50% of geographies,19.0,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+502,38327,,Outlying,64.9,65.6,0.0,,0.0,Bottom 25% of geographies,5.8,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+503,38328,,Outlying,87.6,86.1,,,100.0,26-50% of geographies,14.9,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+504,38329,,Outlying,82.0,81.5,65.5,,57.6,26-50% of geographies,16.4,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+505,38330,"Jackson, TN",Outlying,82.5,81.5,81.9,100.0,100.0,26-50% of geographies,18.1,7.3,0.0,12.5,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,26-50% of geographies
+506,38332,"Jackson, TN",Outlying,80.2,80.3,,,,Bottom 25% of geographies,8.5,,,,Bottom 25% of geographies,,,
+507,38333,,Outlying,57.7,57.7,,,,Bottom 25% of geographies,7.6,,,,Bottom 25% of geographies,,,
+508,38334,,Outlying,87.1,85.9,100.0,,100.0,26-50% of geographies,15.4,59.6,,8.8,26-50% of geographies,Top 25% of geographies,,26-50% of geographies
+509,38337,"Jackson, TN",Outlying,86.3,84.6,99.2,100.0,82.9,26-50% of geographies,28.5,24.8,0.0,29.6,51-75% of geographies,51-75% of geographies,Bottom 25% of geographies,51-75% of geographies
+510,38339,,Outlying,83.6,83.8,79.3,,,26-50% of geographies,28.8,6.7,,,51-75% of geographies,26-50% of geographies,,
+511,38340,"Jackson, TN",Outlying,88.1,90.3,80.0,100.0,83.9,26-50% of geographies,22.1,4.3,60.5,9.4,26-50% of geographies,26-50% of geographies,51-75% of geographies,26-50% of geographies
+512,38341,,Outlying,76.7,75.6,100.0,100.0,93.4,Bottom 25% of geographies,9.9,0.0,0.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+513,38342,,Outlying,77.5,79.2,26.9,,100.0,Bottom 25% of geographies,12.2,22.2,,0.0,Bottom 25% of geographies,51-75% of geographies,,Bottom 25% of geographies
+514,38343,"Jackson, TN",Outlying,86.6,89.5,78.5,36.5,83.3,26-50% of geographies,23.0,7.8,86.5,11.4,51-75% of geographies,26-50% of geographies,Top 25% of geographies,26-50% of geographies
+515,38344,,Outlying,82.9,87.0,65.4,,96.1,26-50% of geographies,24.2,3.8,,0.0,51-75% of geographies,26-50% of geographies,,Bottom 25% of geographies
+516,38345,,Outlying,68.3,67.5,,,100.0,Bottom 25% of geographies,15.7,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+517,38347,"Jackson, TN",Outlying,100.0,100.0,,,,Top 25% of geographies,6.5,,,,Bottom 25% of geographies,,,
+518,38348,,Outlying,80.9,86.7,33.3,,100.0,Bottom 25% of geographies,12.5,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+519,38351,,Outlying,85.2,86.1,80.4,100.0,51.0,26-50% of geographies,13.9,4.3,0.0,14.7,Bottom 25% of geographies,26-50% of geographies,Bottom 25% of geographies,51-75% of geographies
+520,38352,"Jackson, TN",Outlying,61.2,61.2,,,,Bottom 25% of geographies,7.1,,,,Bottom 25% of geographies,,,
+521,38355,"Jackson, TN",Outlying,91.1,90.2,100.0,100.0,100.0,51-75% of geographies,30.7,7.5,43.1,4.1,51-75% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+522,38356,"Jackson, TN",Central,90.2,89.9,81.5,,,51-75% of geographies,25.4,3.7,,,51-75% of geographies,26-50% of geographies,,
+523,38357,,Outlying,89.5,91.2,98.5,,10.6,51-75% of geographies,7.9,0.0,,28.2,Bottom 25% of geographies,Bottom 25% of geographies,,51-75% of geographies
+524,38358,"Jackson, TN",Outlying,91.6,90.2,95.2,100.0,100.0,51-75% of geographies,20.1,10.1,0.0,0.0,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+525,38359,,Outlying,94.1,93.8,100.0,,100.0,Top 25% of geographies,6.3,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+526,38361,,Outlying,75.8,76.9,100.0,0.0,,Bottom 25% of geographies,35.2,48.8,0.0,,51-75% of geographies,Top 25% of geographies,Bottom 25% of geographies,
+527,38362,"Jackson, TN",Central,100.0,100.0,100.0,100.0,100.0,Top 25% of geographies,30.3,9.8,0.0,0.0,51-75% of geographies,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+528,38363,,Outlying,85.0,84.1,92.9,100.0,100.0,26-50% of geographies,16.3,9.3,0.0,0.0,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+529,38365,,Outlying,,,,,,,,,,,,,,
+530,38366,"Jackson, TN",Central,84.7,86.7,92.0,,52.4,26-50% of geographies,27.8,20.2,,95.5,51-75% of geographies,51-75% of geographies,,Top 25% of geographies
+531,38367,,Outlying,82.7,82.5,83.6,,100.0,26-50% of geographies,11.2,18.7,,,Bottom 25% of geographies,51-75% of geographies,,
+532,38368,,Outlying,70.5,69.6,,,,Bottom 25% of geographies,18.6,,,,26-50% of geographies,,,
+533,38369,"Jackson, TN",Outlying,86.3,86.4,44.7,100.0,75.0,26-50% of geographies,17.6,0.0,0.0,0.0,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+534,38370,,Outlying,94.5,95.7,83.8,,100.0,Top 25% of geographies,14.7,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+535,38371,,Outlying,88.0,87.2,,,100.0,26-50% of geographies,12.2,,,66.7,Bottom 25% of geographies,,,Top 25% of geographies
+536,38372,,Outlying,83.3,82.4,100.0,100.0,60.3,26-50% of geographies,16.0,8.7,57.8,33.1,26-50% of geographies,26-50% of geographies,51-75% of geographies,Top 25% of geographies
+537,38374,,Outlying,83.7,84.2,,,100.0,26-50% of geographies,9.5,0.0,,38.0,Bottom 25% of geographies,Bottom 25% of geographies,,Top 25% of geographies
+538,38375,,Outlying,83.0,82.4,81.7,100.0,98.5,26-50% of geographies,13.4,0.0,0.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+539,38376,,Outlying,100.0,100.0,100.0,,,Top 25% of geographies,7.5,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+540,38379,,Outlying,81.0,81.0,,100.0,,Bottom 25% of geographies,14.4,,0.0,,Bottom 25% of geographies,,Bottom 25% of geographies,
+541,38380,,Outlying,89.0,87.8,,,,51-75% of geographies,12.8,,,,Bottom 25% of geographies,,,
+542,38381,,Outlying,59.5,68.5,43.2,,100.0,Bottom 25% of geographies,6.3,14.2,,,Bottom 25% of geographies,26-50% of geographies,,
+543,38382,"Jackson, TN",Outlying,82.8,80.2,83.8,100.0,87.7,26-50% of geographies,17.4,13.3,92.3,36.7,26-50% of geographies,26-50% of geographies,Top 25% of geographies,Top 25% of geographies
+544,38387,,Outlying,71.9,70.2,,,100.0,Bottom 25% of geographies,20.1,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+545,38388,,Outlying,96.5,97.3,82.9,100.0,100.0,Top 25% of geographies,12.0,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+546,38390,,Outlying,71.6,80.5,26.9,0.0,100.0,Bottom 25% of geographies,21.5,0.0,0.0,,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,
+547,38391,"Jackson, TN",Central,77.8,98.3,63.8,,100.0,Bottom 25% of geographies,15.4,9.0,,0.0,26-50% of geographies,26-50% of geographies,,Bottom 25% of geographies
+548,38392,"Jackson, TN",Central,95.4,96.1,91.6,,,Top 25% of geographies,0.0,24.4,,,Bottom 25% of geographies,51-75% of geographies,,
+549,38401,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,90.8,91.2,85.3,94.7,92.8,51-75% of geographies,24.7,11.1,46.2,8.0,51-75% of geographies,26-50% of geographies,26-50% of geographies,26-50% of geographies
+550,38425,,Outlying,65.1,63.0,100.0,,100.0,Bottom 25% of geographies,5.2,1.8,,0.0,Bottom 25% of geographies,26-50% of geographies,,Bottom 25% of geographies
+551,38449,,Outlying,77.8,78.2,66.7,76.5,100.0,Bottom 25% of geographies,20.4,9.3,0.0,0.0,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+552,38450,,Outlying,80.1,79.6,100.0,,93.8,Bottom 25% of geographies,8.2,0.0,,7.7,Bottom 25% of geographies,Bottom 25% of geographies,,26-50% of geographies
+553,38451,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,83.2,83.0,100.0,,100.0,26-50% of geographies,18.7,0.0,,24.1,26-50% of geographies,Bottom 25% of geographies,,51-75% of geographies
+554,38452,,Outlying,73.8,77.8,0.0,,100.0,Bottom 25% of geographies,6.8,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+555,38453,,Outlying,85.1,84.9,,,,26-50% of geographies,30.4,,,,51-75% of geographies,,,
+556,38454,,Outlying,82.1,84.3,0.0,,100.0,26-50% of geographies,14.3,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+557,38455,,Outlying,89.9,85.0,100.0,,,51-75% of geographies,4.2,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+558,38456,"Lawrenceburg, TN",Central,56.9,57.1,,,9.6,Bottom 25% of geographies,17.5,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+559,38457,"Lawrenceburg, TN",Central,77.5,76.9,,,100.0,Bottom 25% of geographies,4.6,,,50.0,Bottom 25% of geographies,,,Top 25% of geographies
+560,38459,,Outlying,92.4,91.1,,,100.0,51-75% of geographies,17.5,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+561,38460,,Outlying,81.4,81.9,0.0,,100.0,Bottom 25% of geographies,15.2,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+562,38461,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,70.2,71.6,0.0,,,Bottom 25% of geographies,12.2,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+563,38462,,Outlying,79.5,80.2,100.0,100.0,96.5,Bottom 25% of geographies,9.3,0.0,51.1,19.4,Bottom 25% of geographies,Bottom 25% of geographies,51-75% of geographies,51-75% of geographies
+564,38463,,Outlying,83.2,82.5,,,100.0,26-50% of geographies,14.1,,,100.0,Bottom 25% of geographies,,,Top 25% of geographies
+565,38464,"Lawrenceburg, TN",Central,83.3,82.7,81.0,100.0,94.9,26-50% of geographies,15.7,21.5,79.4,5.1,26-50% of geographies,51-75% of geographies,Top 25% of geographies,26-50% of geographies
+566,38468,"Lawrenceburg, TN",Central,90.6,90.4,100.0,100.0,100.0,51-75% of geographies,16.4,0.0,0.0,0.0,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+567,38469,"Lawrenceburg, TN",Central,84.7,84.0,,,66.0,26-50% of geographies,15.9,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+568,38471,,Outlying,81.4,81.4,,,,Bottom 25% of geographies,3.9,,,,Bottom 25% of geographies,,,
+569,38472,,Outlying,91.9,91.7,100.0,100.0,,51-75% of geographies,20.5,0.0,0.0,,26-50% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,
+570,38473,,Outlying,86.3,85.9,100.0,100.0,0.0,26-50% of geographies,11.2,0.0,0.0,0.0,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+571,38474,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,79.6,79.7,74.0,100.0,,Bottom 25% of geographies,15.8,13.6,0.0,,26-50% of geographies,26-50% of geographies,Bottom 25% of geographies,
+572,38475,,Outlying,87.8,87.8,,,,26-50% of geographies,18.7,,,,26-50% of geographies,,,
+573,38476,"Nashville-Davidson--Murfreesboro--Franklin, TN",Central,88.1,88.1,,,,26-50% of geographies,1.9,,,,Bottom 25% of geographies,,,
+574,38477,,Outlying,81.3,81.2,79.4,,,Bottom 25% of geographies,15.1,7.2,,,26-50% of geographies,26-50% of geographies,,
+575,38478,,Outlying,87.5,86.6,88.0,,97.0,26-50% of geographies,20.2,7.7,,36.0,26-50% of geographies,26-50% of geographies,,Top 25% of geographies
+576,38481,"Lawrenceburg, TN",Central,77.0,78.3,,0.0,0.0,Bottom 25% of geographies,7.4,,50.0,0.0,Bottom 25% of geographies,,51-75% of geographies,Bottom 25% of geographies
+577,38482,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,76.9,76.0,100.0,100.0,100.0,Bottom 25% of geographies,14.4,,0.0,0.0,Bottom 25% of geographies,,Bottom 25% of geographies,Bottom 25% of geographies
+578,38483,"Lawrenceburg, TN",Central,88.0,87.7,100.0,,100.0,26-50% of geographies,14.7,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+579,38485,,Outlying,87.6,87.0,88.3,100.0,100.0,26-50% of geographies,17.5,4.9,100.0,0.0,26-50% of geographies,26-50% of geographies,Top 25% of geographies,Bottom 25% of geographies
+580,38486,"Lawrenceburg, TN",Central,64.2,63.5,,,,Bottom 25% of geographies,17.4,,,,26-50% of geographies,,,
+581,38487,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,78.1,73.5,100.0,100.0,,Bottom 25% of geographies,12.5,43.5,,,Bottom 25% of geographies,Top 25% of geographies,,
+582,38488,,Outlying,82.2,82.0,,100.0,100.0,26-50% of geographies,22.9,,0.0,0.0,51-75% of geographies,,Bottom 25% of geographies,Bottom 25% of geographies
+583,38501,"Cookeville, TN",Central,85.7,85.6,90.4,84.9,80.5,26-50% of geographies,28.1,24.7,24.4,25.4,51-75% of geographies,51-75% of geographies,26-50% of geographies,51-75% of geographies
+584,38504,,Outlying,61.8,57.9,100.0,,,Bottom 25% of geographies,0.0,0.0,,,Bottom 25% of geographies,Bottom 25% of geographies,,
+585,38506,"Cookeville, TN",Central,85.3,86.4,65.1,99.0,50.6,26-50% of geographies,30.0,11.3,28.1,15.8,51-75% of geographies,26-50% of geographies,26-50% of geographies,51-75% of geographies
+586,38541,"Cookeville, TN",Outlying,83.3,83.1,,,,26-50% of geographies,15.0,,,,26-50% of geographies,,,
+587,38542,"Cookeville, TN",Outlying,0.0,0.0,,,,Bottom 25% of geographies,0.0,,,,Bottom 25% of geographies,,,
+588,38543,"Cookeville, TN",Outlying,82.5,81.2,,,100.0,26-50% of geographies,28.0,,,0.0,51-75% of geographies,,,Bottom 25% of geographies
+589,38544,"Cookeville, TN",Central,90.7,90.7,39.3,100.0,97.0,51-75% of geographies,14.1,0.0,0.0,44.2,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,Top 25% of geographies
+590,38545,"Cookeville, TN",Outlying,80.6,86.4,100.0,,1.0,Bottom 25% of geographies,14.3,0.0,,2.2,Bottom 25% of geographies,Bottom 25% of geographies,,26-50% of geographies
+591,38547,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,93.9,93.7,100.0,,100.0,Top 25% of geographies,19.6,0.0,,0.0,26-50% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+592,38548,"Cookeville, TN",Central,97.5,97.4,100.0,100.0,,Top 25% of geographies,3.5,,,,Bottom 25% of geographies,,,
+593,38549,,Outlying,72.9,71.8,,,100.0,Bottom 25% of geographies,15.6,0.0,,85.5,26-50% of geographies,Bottom 25% of geographies,,Top 25% of geographies
+594,38551,,Outlying,79.0,78.7,90.2,90.9,100.0,Bottom 25% of geographies,6.7,7.8,90.9,0.0,Bottom 25% of geographies,26-50% of geographies,Top 25% of geographies,Bottom 25% of geographies
+595,38552,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,90.6,89.8,,,,51-75% of geographies,16.8,,,,26-50% of geographies,,,
+596,38553,,Outlying,87.0,86.3,,100.0,100.0,26-50% of geographies,32.8,,0.0,0.0,51-75% of geographies,,Bottom 25% of geographies,Bottom 25% of geographies
+597,38554,"Cookeville, TN",Outlying,85.7,86.3,,,100.0,26-50% of geographies,13.4,,,0.0,Bottom 25% of geographies,,,Bottom 25% of geographies
+598,38555,"Crossville, TN",Central,89.1,89.5,100.0,100.0,82.7,51-75% of geographies,14.1,0.0,63.0,6.6,Bottom 25% of geographies,Bottom 25% of geographies,51-75% of geographies,26-50% of geographies
+599,38556,,Outlying,79.3,78.8,,100.0,94.2,Bottom 25% of geographies,15.4,3.8,60.0,21.0,26-50% of geographies,26-50% of geographies,51-75% of geographies,51-75% of geographies
+600,38558,"Crossville, TN",Central,91.5,91.2,,100.0,100.0,51-75% of geographies,30.7,,0.0,11.1,51-75% of geographies,,Bottom 25% of geographies,26-50% of geographies
+601,38559,,Outlying,78.4,79.3,,,100.0,Bottom 25% of geographies,12.5,,,,Bottom 25% of geographies,,,
+602,38560,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,64.7,63.8,,100.0,100.0,Bottom 25% of geographies,9.3,,100.0,0.0,Bottom 25% of geographies,,Top 25% of geographies,Bottom 25% of geographies
+603,38562,"Cookeville, TN",Outlying,79.1,78.6,100.0,,88.5,Bottom 25% of geographies,11.5,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+604,38563,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,93.6,92.8,100.0,100.0,100.0,Top 25% of geographies,14.9,24.0,0.0,0.0,26-50% of geographies,51-75% of geographies,Bottom 25% of geographies,Bottom 25% of geographies
+605,38564,"Cookeville, TN",Outlying,69.5,64.3,,,33.3,Bottom 25% of geographies,28.3,,,0.0,51-75% of geographies,,,Bottom 25% of geographies
+606,38565,,Outlying,90.4,90.3,,,,51-75% of geographies,7.9,,,,Bottom 25% of geographies,,,
+607,38567,"Nashville-Davidson--Murfreesboro--Franklin, TN",Outlying,92.5,92.4,,,,51-75% of geographies,25.4,,,,51-75% of geographies,,,
+608,38568,"Cookeville, TN",Outlying,78.6,77.9,,,,Bottom 25% of geographies,8.9,,,,Bottom 25% of geographies,,,
+609,38569,,Outlying,94.2,94.2,,,,Top 25% of geographies,51.7,,,,Top 25% of geographies,,,
+610,38570,"Cookeville, TN",Outlying,77.0,77.5,52.1,59.2,85.8,Bottom 25% of geographies,14.1,0.0,0.0,17.9,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,51-75% of geographies
+611,38571,"Crossville, TN",Central,85.5,85.7,26.7,78.0,100.0,26-50% of geographies,13.8,13.3,51.2,16.9,Bottom 25% of geographies,26-50% of geographies,51-75% of geographies,51-75% of geographies
+612,38572,"Crossville, TN",Central,91.3,91.0,100.0,100.0,100.0,51-75% of geographies,15.3,,0.0,12.3,26-50% of geographies,,Bottom 25% of geographies,26-50% of geographies
+613,38573,"Cookeville, TN",Outlying,81.2,81.2,,,,Bottom 25% of geographies,11.7,,,,Bottom 25% of geographies,,,
+614,38574,"Cookeville, TN",Central,80.3,79.8,36.1,100.0,86.0,Bottom 25% of geographies,8.6,50.0,0.0,10.4,Bottom 25% of geographies,Top 25% of geographies,Bottom 25% of geographies,26-50% of geographies
+615,38575,,Outlying,72.9,81.3,,,0.0,Bottom 25% of geographies,31.0,,,0.0,51-75% of geographies,,,Bottom 25% of geographies
+616,38577,,Outlying,91.3,91.3,,,,51-75% of geographies,14.1,,,,Bottom 25% of geographies,,,
+617,38578,"Crossville, TN",Central,92.9,91.3,,,,51-75% of geographies,40.1,0.0,,,Top 25% of geographies,Bottom 25% of geographies,,
+618,38579,,Outlying,81.2,79.5,,,0.0,Bottom 25% of geographies,23.4,,,0.0,51-75% of geographies,,,Bottom 25% of geographies
+619,38580,"Cookeville, TN",Outlying,97.8,97.6,,,,Top 25% of geographies,12.8,,,,Bottom 25% of geographies,,,
+620,38581,"McMinnville, TN",Central,77.4,76.7,0.0,100.0,63.4,Bottom 25% of geographies,10.5,0.0,0.0,17.1,Bottom 25% of geographies,Bottom 25% of geographies,Bottom 25% of geographies,51-75% of geographies
+621,38582,"Cookeville, TN",Central,92.6,92.5,,,,51-75% of geographies,27.4,,,,51-75% of geographies,,,
+622,38583,,Outlying,82.1,82.0,76.0,89.2,100.0,26-50% of geographies,13.8,16.2,16.7,11.7,Bottom 25% of geographies,51-75% of geographies,26-50% of geographies,26-50% of geographies
+623,38585,,Outlying,73.6,73.0,,,0.0,Bottom 25% of geographies,5.8,0.0,,0.0,Bottom 25% of geographies,Bottom 25% of geographies,,Bottom 25% of geographies
+624,38587,,Outlying,88.0,87.2,,,100.0,26-50% of geographies,19.7,,,0.0,26-50% of geographies,,,Bottom 25% of geographies
+625,38588,"Cookeville, TN",Outlying,76.3,76.2,,,,Bottom 25% of geographies,10.6,,,,Bottom 25% of geographies,,,
+626,38589,,Outlying,69.4,69.4,,,,Bottom 25% of geographies,0.0,,,,Bottom 25% of geographies,,,
+627,42223,"Clarksville, TN-KY",Central,93.1,93.6,96.7,90.3,93.8,51-75% of geographies,18.6,19.1,60.9,17.2,26-50% of geographies,51-75% of geographies,51-75% of geographies,51-75% of geographies
